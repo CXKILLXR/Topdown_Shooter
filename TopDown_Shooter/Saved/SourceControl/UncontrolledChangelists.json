@@ -189,7 +189,10 @@
 				"E:/MichelCorentin/Topdown_Shooter/TopDown_Shooter/Content/Asset/Blaster/_defaultMat.uasset",
 				"E:/MichelCorentin/Topdown_Shooter/TopDown_Shooter/Content/Asset/Blaster/foamBulletA-low.uasset",
 				"E:/MichelCorentin/Topdown_Shooter/TopDown_Shooter/Content/Asset/Blaster/blasterD.uasset",
-				"E:/MichelCorentin/Topdown_Shooter/TopDown_Shooter/Content/Asset/Blaster/blasterC.uasset"
+				"E:/MichelCorentin/Topdown_Shooter/TopDown_Shooter/Content/Asset/Blaster/blasterC.uasset",
+				"E:/MichelCorentin/Topdown_Shooter/TopDown_Shooter/Content/Asset/Enviro/robot_arm.uasset",
+				"E:/MichelCorentin/Topdown_Shooter/TopDown_Shooter/Content/Asset/box-wide10_GeometryCollection.uasset",
+				"E:/MichelCorentin/Topdown_Shooter/TopDown_Shooter/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset"
 			]
 		}
 	]
