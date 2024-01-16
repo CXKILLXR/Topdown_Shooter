@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"F:/Topdown_Shooter/TopDown_Shooter/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"F:/Topdown_Shooter/TopDown_Shooter/Content/TopDown/Blueprints/WB_Zombie_Health.uasset",
+				"F:/Topdown_Shooter/TopDown_Shooter/Content/TopDown/Blueprints/BP_Projectile.uasset",
+				"F:/Topdown_Shooter/TopDown_Shooter/Content/TopDown/Blueprints/BP_Zombie.uasset",
+				"F:/Topdown_Shooter/TopDown_Shooter/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/BX/ZKAYYLTOZ44LX8LS750P0W.uasset",
 				"E:/Projet Unreal/Topdown_Shooter/TopDown_Shooter/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
 				"E:/Projet Unreal/Topdown_Shooter/TopDown_Shooter/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset",
 				"E:/Projet Unreal/Topdown_Shooter/TopDown_Shooter/Content/Animation/PistolIdle_UE.uasset",
