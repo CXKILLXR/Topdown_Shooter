@@ -4850,3 +4850,1372 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2024.01.18-13.22.01:578][880]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
 [2024.01.18-13.22.01:581][880]LogEditorActor: Deleted 1 Actors (0.021 secs)
 [2024.01.18-13.22.08:913][648]LogEditorViewport: Clicking Background
+[2024.01.18-13.22.40:537][373]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 3/4 of stale message segements from Sender=10.123.128.206:61197, Sequence=0
+[2024.01.18-13.22.40:537][373]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 3/4 of stale message segements from Sender=10.123.128.206:61197, Sequence=0
+[2024.01.18-13.22.40:537][373]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 3/4 of stale message segements from Sender=10.123.128.206:61197, Sequence=0
+[2024.01.18-13.22.40:537][373]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 3/4 of stale message segements from Sender=10.123.128.206:61197, Sequence=0
+[2024.01.18-13.22.55:742][419]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.123.128.143:54644, Sequence=0
+[2024.01.18-13.23.35:650][722]Cmd: DELETE
+[2024.01.18-13.23.35:650][722]Cmd: ACTOR DELETE
+[2024.01.18-13.23.35:659][722]LogEditorActor: Deleted Actor: BP_ZombieCAC_C
+[2024.01.18-13.23.35:674][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.01.18-13.23.35:677][722]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2024.01.18-13.23.37:512][905]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.18-13.23.37:521][905]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.18-13.23.37:521][905]PIE: New page: PIE session: Factory (18 janv. 2024 à 15:23:37)
+[2024.01.18-13.23.37:521][905]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Factory
+[2024.01.18-13.23.37:549][905]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027938s)
+[2024.01.18-13.23.37:549][905]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Factory.Factory to /Game/UEDPIE_0_Factory.Factory (0.027970s)
+[2024.01.18-13.23.37:561][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.01.18-13.23.37:562][905]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.18-13.23.37:562][905]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.18-13.23.37:563][905]LogAIModule: Creating AISystem for world Factory
+[2024.01.18-13.23.37:563][905]LogPlayLevel: PIE: World Init took: (0.001144s)
+[2024.01.18-13.23.37:563][905]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2024.01.18-13.23.37:563][905]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.18-13.23.37:563][905]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.18-13.23.37:563][905]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.18-13.23.37:563][905]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.18-13.23.37:563][905]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.18-13.23.37:563][905]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.18-13.23.37:563][905]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.18-13.23.37:563][905]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.18-13.23.37:564][905]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.18-13.23.37:564][905]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.18-13.23.37:564][905]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.18-13.23.37:566][905]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.18-13.23.37:584][905]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Synaptics HD Audio)
+[2024.01.18-13.23.37:584][905]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.18-13.23.37:584][905]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.18-13.23.37:584][905]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.18-13.23.37:585][905]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2024.01.18-13.23.37:585][905]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2024.01.18-13.23.37:587][905]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2024.01.18-13.23.37:587][905]LogInit: FAudioDevice initialized with ID 39.
+[2024.01.18-13.23.37:587][905]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2024.01.18-13.23.37:587][905]LogAudio: Display: Audio Device (ID: 39) registered with world 'Factory'.
+[2024.01.18-13.23.37:587][905]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 39
+[2024.01.18-13.23.37:590][905]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.01.18-13.23.37:608][905]LogWorld: Bringing World /Game/UEDPIE_0_Factory.Factory up for play (max tick rate 0) at 2024.01.18-14.23.37
+[2024.01.18-13.23.37:609][905]LogWorld: Bringing up level for play took: 0.018481
+[2024.01.18-13.23.37:611][905]LogOnline: OSS: Created online subsystem instance for: :Context_65
+[2024.01.18-13.23.37:614][905]PIE: Server logged in
+[2024.01.18-13.23.37:615][905]PIE: Play in editor total start time 0,094 seconds.
+[2024.01.18-13.24.00:437][ 43]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.18-13.24.00:437][ 43]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Factory
+[2024.01.18-13.24.00:438][ 43]LogWorld: UWorld::CleanupWorld for Factory, bSessionEnded=true, bCleanupResources=true
+[2024.01.18-13.24.00:440][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.18-13.24.00:443][ 43]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.18-13.24.00:449][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.18-13.24.00:461][ 43]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.18-13.24.00:461][ 43]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 39
+[2024.01.18-13.24.00:461][ 43]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2024.01.18-13.24.00:463][ 43]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2024.01.18-13.24.00:467][ 43]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.18-13.24.00:476][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.01.18-13.24.00:518][ 45]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2024.01.18-13.24.33:510][714]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.01.18-13.24.33:513][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Factory" FILE="F:/Topdown_Shooter/TopDown_Shooter/Saved/Autosaves/Game/Factory_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.01.18-13.24.33:595][714]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Factory_Auto4
+[2024.01.18-13.24.33:595][714]LogSavePackage: Moving 'F:/Topdown_Shooter/TopDown_Shooter/Saved/Factory_Auto4E248752A4F8FE4D7A51E47AC22801A3A.tmp' to 'F:/Topdown_Shooter/TopDown_Shooter/Saved/Autosaves/Game/Factory_Auto4.umap'
+[2024.01.18-13.24.33:596][714]LogAssetRegistry: Warning: ScanPathsSynchronous: F:/Topdown_Shooter/TopDown_Shooter/Saved/Autosaves/Game/Factory_Auto4.umap is in the /Temp path, will not scan.
+[2024.01.18-13.24.33:596][714]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Factory_Auto4 is in the /Temp path, will not scan.
+[2024.01.18-13.24.33:596][714]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Factory_Auto4 is in the /Temp path, will not scan.
+[2024.01.18-13.24.33:596][714]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Factory' took 0.100
+[2024.01.18-13.24.33:596][714]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.100
+[2024.01.18-13.29.50:267][523]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDown/Blueprints/Spawner/BP_EnemySpawnerTANK.BP_EnemySpawnerTANK
+[2024.01.18-13.29.50:268][523]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.18-13.29.50:268][523]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.18-13.30.22:872][397]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.01.18-13.30.22:872][397]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.01.18-13.30.42:333][703]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.18-13.30.42:384][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/Spawner/BP_EnemySpawnerTANK" FILE="F:/Topdown_Shooter/TopDown_Shooter/Content/TopDown/Blueprints/Spawner/BP_EnemySpawnerTANK.uasset" SILENT=true
+[2024.01.18-13.30.42:390][703]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Spawner/BP_EnemySpawnerTANK
+[2024.01.18-13.30.42:390][703]LogSavePackage: Moving 'F:/Topdown_Shooter/TopDown_Shooter/Saved/BP_EnemySpawnerTANK7423D86946D35E81CF393683837575D8.tmp' to 'F:/Topdown_Shooter/TopDown_Shooter/Content/TopDown/Blueprints/Spawner/BP_EnemySpawnerTANK.uasset'
+[2024.01.18-13.30.42:401][703]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 4.28 sec)
+[2024.01.18-13.30.42:402][703]AssetCheck: New page: Asset Save: BP_EnemySpawnerTANK
+[2024.01.18-13.30.42:402][703]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/Spawner/BP_EnemySpawnerTANK.BP_EnemySpawnerTANK
+[2024.01.18-13.30.53:982][ 60]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.01.18-13.31.10:261][905]Cmd: DELETE
+[2024.01.18-13.31.10:261][905]Cmd: ACTOR DELETE
+[2024.01.18-13.31.10:268][905]LogEditorActor: Deleted Actor: BP_EnemySpawnerCAC_C
+[2024.01.18-13.31.10:283][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.01.18-13.31.10:287][905]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2024.01.18-13.31.11:270][  8]Cmd: DELETE
+[2024.01.18-13.31.11:270][  8]Cmd: ACTOR DELETE
+[2024.01.18-13.31.11:277][  8]LogEditorActor: Deleted Actor: BP_EnemySpawnerCAC_C
+[2024.01.18-13.31.11:290][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.01.18-13.31.11:293][  8]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2024.01.18-13.31.12:592][148]Cmd: DELETE
+[2024.01.18-13.31.12:592][148]Cmd: ACTOR DELETE
+[2024.01.18-13.31.12:599][148]LogEditorActor: Deleted Actor: BP_EnemySpawnerTANK_C
+[2024.01.18-13.31.12:612][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.01.18-13.31.12:615][148]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2024.01.18-13.31.28:885][706]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.01.18-13.31.28:885][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.18-13.31.34:707][321]LogContentBrowser: Deferred new asset file creation: BP_ZombieTank1
+[2024.01.18-13.31.34:712][321]LogContentBrowser: Creating deferred item: BP_ZombieTank1
+[2024.01.18-13.31.34:753][322]LogContentBrowser: Renaming the item being created (Deferred Item: BP_ZombieTank1).
+[2024.01.18-13.31.41:629][ 92]LogContentBrowser: Attempting asset rename: BP_ZombieTank1 -> BP_ZombieBoss
+[2024.01.18-13.31.41:637][ 92]LogBlueprint: Error: [AssetLog] /Game/TopDown/Blueprints/Enemy/BP_ZombieBoss.BP_ZombieBoss: [Compiler] Can't connect pins  Self  and  Ref Parent Zombie Tank : Self Object Reference is not compatible with BP Zombie Tank Object Reference.
+[2024.01.18-13.31.41:638][ 92]LogBlueprint: Error: [AssetLog] /Game/TopDown/Blueprints/Enemy/BP_ZombieBoss.BP_ZombieBoss: [Compiler] Can't connect pins  Ref Parent Zombie Tank  and  Self : BP Zombie Tank Object Reference is not compatible with Self Object Reference.
+[2024.01.18-13.31.41:661][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.01.18-13.31.41:668][ 92]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/TopDown/Blueprints/Enemy/BP_ZombieBoss does not exist, will not scan.
+[2024.01.18-13.31.41:674][ 92]LogBlueprint: Error: [AssetLog] /Game/TopDown/Blueprints/Enemy/BP_ZombieBoss.BP_ZombieBoss: [Compiler] Can't connect pins  Self  and  Ref Parent Zombie Tank : Self Object Reference is not compatible with BP Zombie Tank Object Reference.
+[2024.01.18-13.31.41:674][ 92]LogBlueprint: Error: [AssetLog] /Game/TopDown/Blueprints/Enemy/BP_ZombieBoss.BP_ZombieBoss: [Compiler] Can't connect pins  Ref Parent Zombie Tank  and  Self : BP Zombie Tank Object Reference is not compatible with Self Object Reference.
+[2024.01.18-13.31.41:687][ 92]LogContentBrowser: End creating deferred item BP_ZombieTank1
+[2024.01.18-13.31.41:689][ 92]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.18-13.31.51:491][131]LogContentBrowser: Deferred new asset file creation: MI_Manny_ZombieTank_03
+[2024.01.18-13.31.51:496][131]LogContentBrowser: Creating deferred item: MI_Manny_ZombieTank_03
+[2024.01.18-13.31.51:507][132]LogContentBrowser: Renaming the item being created (Deferred Item: MI_Manny_ZombieTank_03).
+[2024.01.18-13.32.02:564][380]LogContentBrowser: Attempting asset rename: MI_Manny_ZombieTank_03 -> MI_Manny_ZombieBoss_02
+[2024.01.18-13.32.02:566][380]LogContentBrowser: End creating deferred item MI_Manny_ZombieTank_03
+[2024.01.18-13.32.05:775][655]LogContentBrowser: Deferred new asset file creation: MI_Manny_ZombieTank_03
+[2024.01.18-13.32.05:781][655]LogContentBrowser: Creating deferred item: MI_Manny_ZombieTank_03
+[2024.01.18-13.32.05:793][656]LogContentBrowser: Renaming the item being created (Deferred Item: MI_Manny_ZombieTank_03).
+[2024.01.18-13.32.12:118][334]LogContentBrowser: Attempting asset rename: MI_Manny_ZombieTank_03 -> MI_Manny_ZombieBoss_01
+[2024.01.18-13.32.12:119][334]LogContentBrowser: End creating deferred item MI_Manny_ZombieTank_03
+[2024.01.18-13.32.14:104][520]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Material/MI_Manny_ZombieBoss_01.MI_Manny_ZombieBoss_01
+[2024.01.18-13.32.14:107][520]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.18-13.32.14:107][520]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.18-13.32.14:464][520]LogViewport: Scene viewport resized to 1781x1218, mode Windowed.
+[2024.01.18-13.32.18:186][784]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.18-13.32.19:245][858]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.18-13.32.19:321][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/MI_Manny_ZombieBoss_01" FILE="F:/Topdown_Shooter/TopDown_Shooter/Content/Material/MI_Manny_ZombieBoss_01.uasset" SILENT=true
+[2024.01.18-13.32.19:334][858]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.01.18-13.32.19:350][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.01.18-13.32.19:353][858]LogSavePackage: Moving output files for package: /Game/Material/MI_Manny_ZombieBoss_01
+[2024.01.18-13.32.19:354][858]LogSavePackage: Moving 'F:/Topdown_Shooter/TopDown_Shooter/Saved/MI_Manny_ZombieBoss_0160743D644901D21330867AB28DC518B2.tmp' to 'F:/Topdown_Shooter/TopDown_Shooter/Content/Material/MI_Manny_ZombieBoss_01.uasset'
+[2024.01.18-13.32.19:364][858]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 4.40 sec)
+[2024.01.18-13.32.19:365][858]AssetCheck: New page: Asset Save: MI_Manny_ZombieBoss_01
+[2024.01.18-13.32.19:365][858]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Material/MI_Manny_ZombieBoss_01.MI_Manny_ZombieBoss_01
+[2024.01.18-13.32.19:926][902]LogSlate: Window 'MI_Manny_ZombieBoss_01' being destroyed
+[2024.01.18-13.32.19:950][902]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2024.01.18-13.32.19:950][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.18-13.32.20:839][971]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Material/MI_Manny_ZombieBoss_02.MI_Manny_ZombieBoss_02
+[2024.01.18-13.32.20:841][971]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.18-13.32.20:841][971]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.18-13.32.21:224][971]LogViewport: Scene viewport resized to 1781x1218, mode Windowed.
+[2024.01.18-13.32.25:557][289]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.18-13.32.27:123][405]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.18-13.32.27:214][405]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/MI_Manny_ZombieBoss_02" FILE="F:/Topdown_Shooter/TopDown_Shooter/Content/Material/MI_Manny_ZombieBoss_02.uasset" SILENT=true
+[2024.01.18-13.32.27:228][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.01.18-13.32.27:246][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.01.18-13.32.27:249][405]LogSavePackage: Moving output files for package: /Game/Material/MI_Manny_ZombieBoss_02
+[2024.01.18-13.32.27:249][405]LogSavePackage: Moving 'F:/Topdown_Shooter/TopDown_Shooter/Saved/MI_Manny_ZombieBoss_02E045252A4CD3D71C9F0B7CA4B5169846.tmp' to 'F:/Topdown_Shooter/TopDown_Shooter/Content/Material/MI_Manny_ZombieBoss_02.uasset'
+[2024.01.18-13.32.27:259][405]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 4.53 sec)
+[2024.01.18-13.32.27:260][405]AssetCheck: New page: Asset Save: MI_Manny_ZombieBoss_02
+[2024.01.18-13.32.27:260][405]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Material/MI_Manny_ZombieBoss_02.MI_Manny_ZombieBoss_02
+[2024.01.18-13.32.27:713][440]LogSlate: Window 'MI_Manny_ZombieBoss_02' being destroyed
+[2024.01.18-13.32.27:740][440]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2024.01.18-13.32.27:740][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.18-13.32.38:434][582]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDown/Blueprints/Enemy/BP_ZombieBoss.BP_ZombieBoss
+[2024.01.18-13.32.38:435][582]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.18-13.32.38:435][582]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.18-13.32.40:835][701]LogViewport: Scene viewport resized to 1522x935, mode Windowed.
+[2024.01.18-13.32.54:656][578]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.18-13.32.54:701][578]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.18-13.32.54:727][578]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/Enemy/BP_ZombieBoss" FILE="F:/Topdown_Shooter/TopDown_Shooter/Content/TopDown/Blueprints/Enemy/BP_ZombieBoss.uasset" SILENT=true
+[2024.01.18-13.32.54:741][578]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Enemy/BP_ZombieBoss
+[2024.01.18-13.32.54:741][578]LogSavePackage: Moving 'F:/Topdown_Shooter/TopDown_Shooter/Saved/BP_ZombieBossCEB694F7404150E1C45F3FB65C4BA0E1.tmp' to 'F:/Topdown_Shooter/TopDown_Shooter/Content/TopDown/Blueprints/Enemy/BP_ZombieBoss.uasset'
+[2024.01.18-13.32.54:751][578]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 4.63 sec)
+[2024.01.18-13.32.54:752][578]AssetCheck: New page: Asset Save: BP_ZombieBoss
+[2024.01.18-13.32.54:752][578]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/Enemy/BP_ZombieBoss.BP_ZombieBoss
+[2024.01.18-13.33.12:360][744]LogSlate: Window 'BP_ZombieBoss' being destroyed
+[2024.01.18-13.33.20:333][613]LogContentBrowser: Deferred new asset file creation: WB_ZombieTank_Health1
+[2024.01.18-13.33.20:339][613]LogContentBrowser: Creating deferred item: WB_ZombieTank_Health1
+[2024.01.18-13.33.20:352][614]LogContentBrowser: Renaming the item being created (Deferred Item: WB_ZombieTank_Health1).
+[2024.01.18-13.33.27:699][425]LogContentBrowser: Attempting asset rename: WB_ZombieTank_Health1 -> WB_ZombieBoss_Health
+[2024.01.18-13.33.27:720][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.01.18-13.33.27:732][425]LogContentBrowser: End creating deferred item WB_ZombieTank_Health1
+[2024.01.18-13.33.28:300][492]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/TopDown/Blueprints/Widget/WB_ZombieBoss_Health.WB_ZombieBoss_Health
+[2024.01.18-13.33.28:300][492]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.18-13.33.28:301][492]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.18-13.33.28:315][492]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.18-13.33.28:315][492]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.18-13.33.28:320][492]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2024.01.18-13.33.28:492][492]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.01.18-13.33.28:493][492]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.01.18-13.33.50:902][ 47]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/TopDown/Blueprints/Widget/WB_ZombieCAC_Health.WB_ZombieCAC_Health
+[2024.01.18-13.33.50:902][ 47]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.18-13.33.50:902][ 47]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.18-13.33.50:912][ 47]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.18-13.33.50:912][ 47]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.18-13.34.18:921][263]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.01.18-13.34.27:322][ 75]LogSlate: Window 'Change Variable Type' being destroyed
+[2024.01.18-13.34.30:318][356]LogSlate: Window 'Find in Blueprints' being destroyed
+[2024.01.18-13.34.30:324][356]LogSlate: Window 'Find in Blueprints' being destroyed
+[2024.01.18-13.35.13:330][180]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.18-13.35.13:450][180]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/Enemy/BP_ZombieBoss" FILE="F:/Topdown_Shooter/TopDown_Shooter/Content/TopDown/Blueprints/Enemy/BP_ZombieBoss.uasset" SILENT=true
+[2024.01.18-13.35.13:464][180]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Enemy/BP_ZombieBoss
+[2024.01.18-13.35.13:465][180]LogSavePackage: Moving 'F:/Topdown_Shooter/TopDown_Shooter/Saved/BP_ZombieBossF033886C487B9B5FC72D9596D2F66B47.tmp' to 'F:/Topdown_Shooter/TopDown_Shooter/Content/TopDown/Blueprints/Enemy/BP_ZombieBoss.uasset'
+[2024.01.18-13.35.13:474][180]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 4.77 sec)
+[2024.01.18-13.35.13:476][180]AssetCheck: New page: Asset Save: BP_ZombieBoss
+[2024.01.18-13.35.13:476][180]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/Enemy/BP_ZombieBoss.BP_ZombieBoss
+[2024.01.18-13.35.13:803][218]BlueprintLog: New page: Compile BP_ZombieBoss
+[2024.01.18-13.35.13:809][218]LogBlueprint: Error: [AssetLog] F:\Topdown_Shooter\TopDown_Shooter\Content\TopDown\Blueprints\Enemy\BP_ZombieBoss.uasset: [Compiler] Can't connect pins  Self  and  Ref Parent Zombie Tank : Self Object Reference is not compatible with BP Zombie Tank Object Reference.
+[2024.01.18-13.35.13:809][218]LogBlueprint: Error: [AssetLog] F:\Topdown_Shooter\TopDown_Shooter\Content\TopDown\Blueprints\Enemy\BP_ZombieBoss.uasset: [Compiler] Can't connect pins  Ref Parent Zombie Tank  and  Self : BP Zombie Tank Object Reference is not compatible with Self Object Reference.
+[2024.01.18-13.35.13:871][218]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.01.18-13.36.42:591][539]BlueprintLog: New page: Compile WB_ZombieBoss_Health
+[2024.01.18-13.36.42:594][539]LogBlueprint: Error: [AssetLog] /Game/TopDown/Blueprints/Widget/WB_ZombieBoss_Health.WB_ZombieBoss_Health: [Compiler] In use pin  Ref Parent Zombie Boss  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2024.01.18-13.36.42:594][539]LogBlueprint: Error: [AssetLog] /Game/TopDown/Blueprints/Widget/WB_ZombieBoss_Health.WB_ZombieBoss_Health: [Compiler] In use pin  Ref Parent Zombie Boss  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2024.01.18-13.36.42:620][539]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.01.18-13.36.43:645][649]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.18-13.36.43:686][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/Widget/WB_ZombieBoss_Health" FILE="F:/Topdown_Shooter/TopDown_Shooter/Content/TopDown/Blueprints/Widget/WB_ZombieBoss_Health.uasset" SILENT=true
+[2024.01.18-13.36.43:693][649]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Widget/WB_ZombieBoss_Health
+[2024.01.18-13.36.43:693][649]LogSavePackage: Moving 'F:/Topdown_Shooter/TopDown_Shooter/Saved/WB_ZombieBoss_Health5B0B327F4D0887E35EBB4BA05B2E01ED.tmp' to 'F:/Topdown_Shooter/TopDown_Shooter/Content/TopDown/Blueprints/Widget/WB_ZombieBoss_Health.uasset'
+[2024.01.18-13.36.43:705][649]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 4.83 sec)
+[2024.01.18-13.36.43:706][649]AssetCheck: New page: Asset Save: WB_ZombieBoss_Health
+[2024.01.18-13.36.43:706][649]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/TopDown/Blueprints/Widget/WB_ZombieBoss_Health.WB_ZombieBoss_Health
+[2024.01.18-13.37.06:312][222]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/TopDown/Blueprints/Widget/WB_ZombieTank_Health.WB_ZombieTank_Health
+[2024.01.18-13.37.06:312][222]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.18-13.37.06:313][222]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.18-13.37.06:321][222]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.18-13.37.06:321][222]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.18-13.37.17:858][540]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2024.01.18-13.37.17:858][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.18-13.37.17:867][540]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2024.01.18-13.37.17:867][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.18-13.38.47:904][829]BlueprintLog: New page: Compile WB_ZombieBoss_Health
+[2024.01.18-13.38.47:906][829]LogBlueprint: Error: [AssetLog] F:\Topdown_Shooter\TopDown_Shooter\Content\TopDown\Blueprints\Widget\WB_ZombieBoss_Health.uasset: [Compiler] In use pin  Ref Parent Zombie Boss  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2024.01.18-13.38.47:933][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.01.18-13.38.49:206][966]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.18-13.38.49:241][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/Widget/WB_ZombieBoss_Health" FILE="F:/Topdown_Shooter/TopDown_Shooter/Content/TopDown/Blueprints/Widget/WB_ZombieBoss_Health.uasset" SILENT=true
+[2024.01.18-13.38.49:247][966]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Widget/WB_ZombieBoss_Health
+[2024.01.18-13.38.49:247][966]LogSavePackage: Moving 'F:/Topdown_Shooter/TopDown_Shooter/Saved/WB_ZombieBoss_Health42056CD740BC2EEECC3F50844261DEEA.tmp' to 'F:/Topdown_Shooter/TopDown_Shooter/Content/TopDown/Blueprints/Widget/WB_ZombieBoss_Health.uasset'
+[2024.01.18-13.38.49:255][966]LogFileHelpers: InternalPromptForCheckoutAndSave took 48 ms (total: 4.88 sec)
+[2024.01.18-13.38.49:256][966]AssetCheck: New page: Asset Save: WB_ZombieBoss_Health
+[2024.01.18-13.38.49:256][966]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/TopDown/Blueprints/Widget/WB_ZombieBoss_Health.WB_ZombieBoss_Health
+[2024.01.18-13.39.54:593][526]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2024.01.18-13.39.54:593][526]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.18-13.39.54:602][526]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2024.01.18-13.39.54:602][526]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.18-13.39.59:667][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.01.18-13.40.01:481][ 64]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.18-13.40.01:579][ 64]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2024.01.18-13.40.01:579][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.18-13.40.01:618][ 64]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/TopDown/Blueprints/Widget/WB_ZombieBoss_Health.WB_ZombieBoss_Health
+	Asset Type: WidgetBlueprint
+[2024.01.18-13.40.02:034][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.01.18-13.40.02:052][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.01.18-13.40.02:065][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.01.18-13.40.20:535][132]LogContentBrowser: Deferred new asset file creation: WB_ZombieCAC_Health1
+[2024.01.18-13.40.20:541][132]LogContentBrowser: Creating deferred item: WB_ZombieCAC_Health1
+[2024.01.18-13.40.20:552][133]LogContentBrowser: Renaming the item being created (Deferred Item: WB_ZombieCAC_Health1).
+[2024.01.18-13.40.28:450][ 17]LogContentBrowser: Attempting asset rename: WB_ZombieCAC_Health1 -> WB_ZombieBoss_Health
+[2024.01.18-13.40.28:468][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.01.18-13.40.28:480][ 17]LogContentBrowser: End creating deferred item WB_ZombieCAC_Health1
+[2024.01.18-13.40.29:847][177]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/TopDown/Blueprints/Widget/WB_ZombieBoss_Health.WB_ZombieBoss_Health
+[2024.01.18-13.40.29:847][177]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.18-13.40.29:848][177]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.18-13.40.29:860][177]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.18-13.40.29:860][177]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.18-13.41.02:744][612]LogSlate: Window 'Change Variable Type' being destroyed
+[2024.01.18-13.41.06:012][980]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.18-13.41.06:012][980]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2024.01.18-13.41.06:012][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.18-13.41.07:053][ 97]LogSlate: Window 'Find in Blueprints' being destroyed
+[2024.01.18-13.41.07:059][ 97]LogSlate: Window 'Find in Blueprints' being destroyed
+[2024.01.18-13.41.15:323][982]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDown/Blueprints/Enemy/BP_ZombieBoss.BP_ZombieBoss
+[2024.01.18-13.41.15:323][982]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.18-13.41.15:323][982]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.18-13.41.15:646][983]LogPropertyNode: Warning: Object Property (ObjectProperty /Game/TopDown/Blueprints/Enemy/BP_ZombieBoss.BP_ZombieBoss_C:HealthBarRef) has a null class, falling back to UObject
+[2024.01.18-13.41.18:179][228]LogPropertyNode: Warning: Object Property (ObjectProperty /Game/TopDown/Blueprints/Enemy/BP_ZombieBoss.BP_ZombieBoss_C:HealthBarRef) has a null class, falling back to UObject
+[2024.01.18-13.41.20:566][485]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.01.18-13.41.20:566][485]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.18-13.41.22:877][665]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDown/Blueprints/Enemy/BP_ZombieCAC.BP_ZombieCAC
+[2024.01.18-13.41.22:877][665]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.18-13.41.22:877][665]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.18-13.41.42:556][649]LogPropertyNode: Warning: Object Property (ObjectProperty /Game/TopDown/Blueprints/Enemy/BP_ZombieBoss.BP_ZombieBoss_C:HealthBarRef) has a null class, falling back to UObject
+[2024.01.18-13.41.44:303][834]BlueprintLog: New page: Compile BP_ZombieBoss
+[2024.01.18-13.41.44:309][834]LogBlueprint: Error: [AssetLog] F:\Topdown_Shooter\TopDown_Shooter\Content\TopDown\Blueprints\Enemy\BP_ZombieBoss.uasset: [Compiler] Can't connect pins  Self  and  Ref Parent Zombie Tank : Self Object Reference is not compatible with BP Zombie Tank Object Reference.
+[2024.01.18-13.41.44:309][834]LogBlueprint: Error: [AssetLog] F:\Topdown_Shooter\TopDown_Shooter\Content\TopDown\Blueprints\Enemy\BP_ZombieBoss.uasset: [Compiler] Can't connect pins  Ref Parent Zombie Tank  and  Self : BP Zombie Tank Object Reference is not compatible with Self Object Reference.
+[2024.01.18-13.41.44:426][834]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.01.18-13.42.26:802][542]BlueprintLog: New page: Compile WB_ZombieBoss_Health
+[2024.01.18-13.42.26:803][542]LogBlueprint: Error: [AssetLog] /Game/TopDown/Blueprints/Widget/WB_ZombieBoss_Health.WB_ZombieBoss_Health: [Compiler] In use pin  Ref Parent Zombie CAC  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2024.01.18-13.42.26:820][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.01.18-13.43.05:918][179]BlueprintLog: New page: Compile WB_ZombieBoss_Health
+[2024.01.18-13.43.05:920][179]LogBlueprint: Error: [AssetLog] /Game/TopDown/Blueprints/Widget/WB_ZombieBoss_Health.WB_ZombieBoss_Health: [Compiler] In use pin  Ref Parent Zombie Boss  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2024.01.18-13.43.05:936][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.01.18-13.43.13:133][ 14]BlueprintLog: New page: Compile WB_ZombieBoss_Health
+[2024.01.18-13.43.13:134][ 14]LogBlueprint: Error: [AssetLog] /Game/TopDown/Blueprints/Widget/WB_ZombieBoss_Health.WB_ZombieBoss_Health: [Compiler] In use pin  Ref Parent Zombie Boss  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2024.01.18-13.43.13:150][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.01.18-13.43.53:074][569]BlueprintLog: New page: Compile WB_ZombieBoss_Health
+[2024.01.18-13.43.53:090][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.01.18-13.43.54:028][667]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.18-13.43.54:078][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/Widget/WB_ZombieBoss_Health" FILE="F:/Topdown_Shooter/TopDown_Shooter/Content/TopDown/Blueprints/Widget/WB_ZombieBoss_Health.uasset" SILENT=true
+[2024.01.18-13.43.54:084][667]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Widget/WB_ZombieBoss_Health
+[2024.01.18-13.43.54:084][667]LogSavePackage: Moving 'F:/Topdown_Shooter/TopDown_Shooter/Saved/WB_ZombieBoss_HealthB82FBCBE4763165D204293AF3C97F8DA.tmp' to 'F:/Topdown_Shooter/TopDown_Shooter/Content/TopDown/Blueprints/Widget/WB_ZombieBoss_Health.uasset'
+[2024.01.18-13.43.54:096][667]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 4.95 sec)
+[2024.01.18-13.43.54:096][667]AssetCheck: New page: Asset Save: WB_ZombieBoss_Health
+[2024.01.18-13.43.54:096][667]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/TopDown/Blueprints/Widget/WB_ZombieBoss_Health.WB_ZombieBoss_Health
+[2024.01.18-13.45.46:906][165]LogEditorTransaction: Undo Delete current selection
+[2024.01.18-13.45.58:834][469]LogEditorTransaction: Undo Add Node
+[2024.01.18-13.46.51:632][ 36]BlueprintLog: New page: Compile BP_ZombieBoss
+[2024.01.18-13.46.51:701][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.01.18-13.46.52:468][102]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.18-13.46.52:637][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/Enemy/BP_ZombieBoss" FILE="F:/Topdown_Shooter/TopDown_Shooter/Content/TopDown/Blueprints/Enemy/BP_ZombieBoss.uasset" SILENT=true
+[2024.01.18-13.46.52:652][102]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Enemy/BP_ZombieBoss
+[2024.01.18-13.46.52:652][102]LogSavePackage: Moving 'F:/Topdown_Shooter/TopDown_Shooter/Saved/BP_ZombieBossB2E4F3A84451027C486EE8A50B779DE1.tmp' to 'F:/Topdown_Shooter/TopDown_Shooter/Content/TopDown/Blueprints/Enemy/BP_ZombieBoss.uasset'
+[2024.01.18-13.46.52:662][102]LogFileHelpers: InternalPromptForCheckoutAndSave took 193 ms (total: 5.14 sec)
+[2024.01.18-13.46.52:664][102]AssetCheck: New page: Asset Save: BP_ZombieBoss
+[2024.01.18-13.46.52:664][102]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/Enemy/BP_ZombieBoss.BP_ZombieBoss
+[2024.01.18-13.47.08:706][967]BlueprintLog: New page: Compile BP_ZombieBoss
+[2024.01.18-13.47.08:782][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.01.18-13.47.09:410][ 14]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.18-13.47.09:544][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/Enemy/BP_ZombieBoss" FILE="F:/Topdown_Shooter/TopDown_Shooter/Content/TopDown/Blueprints/Enemy/BP_ZombieBoss.uasset" SILENT=true
+[2024.01.18-13.47.09:558][ 14]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Enemy/BP_ZombieBoss
+[2024.01.18-13.47.09:558][ 14]LogSavePackage: Moving 'F:/Topdown_Shooter/TopDown_Shooter/Saved/BP_ZombieBoss01E012904F3582C4393516BF6CAFD42B.tmp' to 'F:/Topdown_Shooter/TopDown_Shooter/Content/TopDown/Blueprints/Enemy/BP_ZombieBoss.uasset'
+[2024.01.18-13.47.09:569][ 14]LogFileHelpers: InternalPromptForCheckoutAndSave took 158 ms (total: 5.30 sec)
+[2024.01.18-13.47.09:570][ 14]AssetCheck: New page: Asset Save: BP_ZombieBoss
+[2024.01.18-13.47.09:570][ 14]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/Enemy/BP_ZombieBoss.BP_ZombieBoss
+[2024.01.18-13.47.11:841][206]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/Enemy/BP_ZombieBoss.BP_ZombieBoss_C
+[2024.01.18-13.47.11:841][206]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/Enemy/BP_ZombieBoss.BP_ZombieBoss_C
+[2024.01.18-13.47.11:851][206]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/Enemy/BP_ZombieBoss.BP_ZombieBoss as actor: BP_ZombieBoss_C /Game/Factory.Factory:PersistentLevel.BP_ZombieBoss_C_0
+[2024.01.18-13.47.11:857][206]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/Enemy/BP_ZombieBoss.BP_ZombieBoss as actor: BP_ZombieBoss_C /Game/Factory.Factory:PersistentLevel.BP_ZombieBoss_C_0
+[2024.01.18-13.47.12:470][245]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/Enemy/BP_ZombieBoss.BP_ZombieBoss_C
+[2024.01.18-13.47.12:470][245]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/Enemy/BP_ZombieBoss.BP_ZombieBoss_C
+[2024.01.18-13.47.12:482][245]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/Enemy/BP_ZombieBoss.BP_ZombieBoss as actor: BP_ZombieBoss_C /Game/Factory.Factory:PersistentLevel.BP_ZombieBoss_C_1
+[2024.01.18-13.47.12:489][245]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/Enemy/BP_ZombieBoss.BP_ZombieBoss as actor: BP_ZombieBoss_C /Game/Factory.Factory:PersistentLevel.BP_ZombieBoss_C_1
+[2024.01.18-13.47.14:020][368]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.18-13.47.14:053][368]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.18-13.47.14:053][368]PIE: New page: PIE session: Factory (18 janv. 2024 à 15:47:14)
+[2024.01.18-13.47.14:053][368]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Factory
+[2024.01.18-13.47.14:083][368]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029344s)
+[2024.01.18-13.47.14:083][368]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Factory.Factory to /Game/UEDPIE_0_Factory.Factory (0.029409s)
+[2024.01.18-13.47.14:103][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.01.18-13.47.14:108][368]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.18-13.47.14:108][368]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.18-13.47.14:109][368]LogAIModule: Creating AISystem for world Factory
+[2024.01.18-13.47.14:109][368]LogPlayLevel: PIE: World Init took: (0.001207s)
+[2024.01.18-13.47.14:110][368]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2024.01.18-13.47.14:110][368]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.18-13.47.14:110][368]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.18-13.47.14:110][368]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.18-13.47.14:110][368]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.18-13.47.14:110][368]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.18-13.47.14:110][368]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.18-13.47.14:110][368]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.18-13.47.14:110][368]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.18-13.47.14:110][368]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.18-13.47.14:110][368]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.18-13.47.14:110][368]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.18-13.47.14:112][368]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.18-13.47.14:132][368]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Synaptics HD Audio)
+[2024.01.18-13.47.14:133][368]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.18-13.47.14:133][368]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.18-13.47.14:133][368]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.18-13.47.14:133][368]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2024.01.18-13.47.14:133][368]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2024.01.18-13.47.14:136][368]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2024.01.18-13.47.14:136][368]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2024.01.18-13.47.14:136][368]LogInit: FAudioDevice initialized with ID 40.
+[2024.01.18-13.47.14:136][368]LogAudio: Display: Audio Device (ID: 40) registered with world 'Factory'.
+[2024.01.18-13.47.14:136][368]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 40
+[2024.01.18-13.47.14:139][368]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.01.18-13.47.14:161][368]LogWorld: Bringing World /Game/UEDPIE_0_Factory.Factory up for play (max tick rate 0) at 2024.01.18-14.47.14
+[2024.01.18-13.47.14:163][368]LogWorld: Bringing up level for play took: 0.023576
+[2024.01.18-13.47.14:165][368]LogOnline: OSS: Created online subsystem instance for: :Context_82
+[2024.01.18-13.47.14:170][368]PIE: Server logged in
+[2024.01.18-13.47.14:171][368]PIE: Play in editor total start time 0,141 seconds.
+[2024.01.18-13.47.17:330][698]LogScript: Warning: Accessed None trying to read property RefParentZombieTank
+	WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+	Function /Game/TopDown/Blueprints/Widget/WB_ZombieTank_Health.WB_ZombieTank_Health_C:GetPercent_0:0027
+[2024.01.18-13.47.17:330][698]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:330][698]LogScript: Warning: Accessed None trying to read property RefParentZombieTank
+	WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+	Function /Game/TopDown/Blueprints/Widget/WB_ZombieTank_Health.WB_ZombieTank_Health_C:GetPercent_0:0046
+[2024.01.18-13.47.17:330][698]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:330][698]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:330][698]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:340][699]LogScript: Warning: Accessed None trying to read property RefParentZombieTank
+	WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+	Function /Game/TopDown/Blueprints/Widget/WB_ZombieTank_Health.WB_ZombieTank_Health_C:GetPercent_0:0027
+[2024.01.18-13.47.17:340][699]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:340][699]LogScript: Warning: Accessed None trying to read property RefParentZombieTank
+	WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+	Function /Game/TopDown/Blueprints/Widget/WB_ZombieTank_Health.WB_ZombieTank_Health_C:GetPercent_0:0046
+[2024.01.18-13.47.17:340][699]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:340][699]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:340][699]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:350][700]LogScript: Warning: Accessed None trying to read property RefParentZombieTank
+	WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+	Function /Game/TopDown/Blueprints/Widget/WB_ZombieTank_Health.WB_ZombieTank_Health_C:GetPercent_0:0027
+[2024.01.18-13.47.17:350][700]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:350][700]LogScript: Warning: Accessed None trying to read property RefParentZombieTank
+	WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+	Function /Game/TopDown/Blueprints/Widget/WB_ZombieTank_Health.WB_ZombieTank_Health_C:GetPercent_0:0046
+[2024.01.18-13.47.17:350][700]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:350][700]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:350][700]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:359][701]LogScript: Warning: Accessed None trying to read property RefParentZombieTank
+	WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+	Function /Game/TopDown/Blueprints/Widget/WB_ZombieTank_Health.WB_ZombieTank_Health_C:GetPercent_0:0027
+[2024.01.18-13.47.17:359][701]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:359][701]LogScript: Warning: Accessed None trying to read property RefParentZombieTank
+	WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+	Function /Game/TopDown/Blueprints/Widget/WB_ZombieTank_Health.WB_ZombieTank_Health_C:GetPercent_0:0046
+[2024.01.18-13.47.17:359][701]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:359][701]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:359][701]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:368][702]LogScript: Warning: Accessed None trying to read property RefParentZombieTank
+	WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+	Function /Game/TopDown/Blueprints/Widget/WB_ZombieTank_Health.WB_ZombieTank_Health_C:GetPercent_0:0027
+[2024.01.18-13.47.17:368][702]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:368][702]LogScript: Warning: Accessed None trying to read property RefParentZombieTank
+	WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+	Function /Game/TopDown/Blueprints/Widget/WB_ZombieTank_Health.WB_ZombieTank_Health_C:GetPercent_0:0046
+[2024.01.18-13.47.17:369][702]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:369][702]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:369][702]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:378][703]LogScript: Warning: Accessed None trying to read property RefParentZombieTank
+	WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+	Function /Game/TopDown/Blueprints/Widget/WB_ZombieTank_Health.WB_ZombieTank_Health_C:GetPercent_0:0027
+[2024.01.18-13.47.17:378][703]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:378][703]LogScript: Warning: Accessed None trying to read property RefParentZombieTank
+	WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+	Function /Game/TopDown/Blueprints/Widget/WB_ZombieTank_Health.WB_ZombieTank_Health_C:GetPercent_0:0046
+[2024.01.18-13.47.17:378][703]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:378][703]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:378][703]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:387][704]LogScript: Warning: Accessed None trying to read property RefParentZombieTank
+	WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+	Function /Game/TopDown/Blueprints/Widget/WB_ZombieTank_Health.WB_ZombieTank_Health_C:GetPercent_0:0027
+[2024.01.18-13.47.17:387][704]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:387][704]LogScript: Warning: Accessed None trying to read property RefParentZombieTank
+	WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+	Function /Game/TopDown/Blueprints/Widget/WB_ZombieTank_Health.WB_ZombieTank_Health_C:GetPercent_0:0046
+[2024.01.18-13.47.17:387][704]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:387][704]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:387][704]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:396][705]LogScript: Warning: Accessed None trying to read property RefParentZombieTank
+	WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+	Function /Game/TopDown/Blueprints/Widget/WB_ZombieTank_Health.WB_ZombieTank_Health_C:GetPercent_0:0027
+[2024.01.18-13.47.17:396][705]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:396][705]LogScript: Warning: Accessed None trying to read property RefParentZombieTank
+	WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+	Function /Game/TopDown/Blueprints/Widget/WB_ZombieTank_Health.WB_ZombieTank_Health_C:GetPercent_0:0046
+[2024.01.18-13.47.17:396][705]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:396][705]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:396][705]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:405][706]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:405][706]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:405][706]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:405][706]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:413][707]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:413][707]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:413][707]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:413][707]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:422][708]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:422][708]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:422][708]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:423][708]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:431][709]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:431][709]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:431][709]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:431][709]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:440][710]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:440][710]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:440][710]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:440][710]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:449][711]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:449][711]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:449][711]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:449][711]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:457][712]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:457][712]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:457][712]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:457][712]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:466][713]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:466][713]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:466][713]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:466][713]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:474][714]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:474][714]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:474][714]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:474][714]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:482][715]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:482][715]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:482][715]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:482][715]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:491][716]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:491][716]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:491][716]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:491][716]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:499][717]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:499][717]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:499][717]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:499][717]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:508][718]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:508][718]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:508][718]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:508][718]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:517][719]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:517][719]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:517][719]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:517][719]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:526][720]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:526][720]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:526][720]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:526][720]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:534][721]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:534][721]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:535][721]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:535][721]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:543][722]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:543][722]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:543][722]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:543][722]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:553][723]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:553][723]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:553][723]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:553][723]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:564][724]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:564][724]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:564][724]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:564][724]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:572][725]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:572][725]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:572][725]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:572][725]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:580][726]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:580][726]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:580][726]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:580][726]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:589][727]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:589][727]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:589][727]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:589][727]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:599][728]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:599][728]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:599][728]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:599][728]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:608][729]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:608][729]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:608][729]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:608][729]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:616][730]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:616][730]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:616][730]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:616][730]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:626][731]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:626][731]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:626][731]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:626][731]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:635][732]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:635][732]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:635][732]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:635][732]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:645][733]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:645][733]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:645][733]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:645][733]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:653][734]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:653][734]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:653][734]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:653][734]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:662][735]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:662][735]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:662][735]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:662][735]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:671][736]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:672][736]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:672][736]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:672][736]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:681][737]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:681][737]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:681][737]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:681][737]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:691][738]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:691][738]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:691][738]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:691][738]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:700][739]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:700][739]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:700][739]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:700][739]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:710][740]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:710][740]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:710][740]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:710][740]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:719][741]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:719][741]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:719][741]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:719][741]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:727][742]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:727][742]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:727][742]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:727][742]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:736][743]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:736][743]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:736][743]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:736][743]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:745][744]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:745][744]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:745][744]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:745][744]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:753][745]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:753][745]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:753][745]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:753][745]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:762][746]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:762][746]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:762][746]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:762][746]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:773][747]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:773][747]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:773][747]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:773][747]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:782][748]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:782][748]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:782][748]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:782][748]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:791][749]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:791][749]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:791][749]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:791][749]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:800][750]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:800][750]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:800][750]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:800][750]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:810][751]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:810][751]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:810][751]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:810][751]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:819][752]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:819][752]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:819][752]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:819][752]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:828][753]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:828][753]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:828][753]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:828][753]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:837][754]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:837][754]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:837][754]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:837][754]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:846][755]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:846][755]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:846][755]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:846][755]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:855][756]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:855][756]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:855][756]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:855][756]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:864][757]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:864][757]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:864][757]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:864][757]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:873][758]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:874][758]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:874][758]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:874][758]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:882][759]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:882][759]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:882][759]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:882][759]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:890][760]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:891][760]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:891][760]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:891][760]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:899][761]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:899][761]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:899][761]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:899][761]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:908][762]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:908][762]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:908][762]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:908][762]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:916][763]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:916][763]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:916][763]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:916][763]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:924][764]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:924][764]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:924][764]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:924][764]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:933][765]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:933][765]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:933][765]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:933][765]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:941][766]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:941][766]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:941][766]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:941][766]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:949][767]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:949][767]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:949][767]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:949][767]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:958][768]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:958][768]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:958][768]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:959][768]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:969][769]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:969][769]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:970][769]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:970][769]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:977][770]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:978][770]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:978][770]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:978][770]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:986][771]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:986][771]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:986][771]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:986][771]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.17:994][772]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:994][772]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.17:994][772]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.17:994][772]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.18:003][773]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.18:003][773]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.18:003][773]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.18:003][773]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.18:012][774]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.18:012][774]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.18:012][774]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.18:012][774]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.18:021][775]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.18:021][775]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.18:021][775]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.18:021][775]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.18:030][776]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.18:030][776]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.18:030][776]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.18:030][776]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.18:039][777]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.18:039][777]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.18:039][777]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.18:039][777]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.18:049][778]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.18:049][778]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.18:049][778]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.18:049][778]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.18:058][779]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.18:058][779]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.18:058][779]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.18:058][779]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.18:066][780]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.18:066][780]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.18:066][780]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.18:066][780]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.18:074][781]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.18:074][781]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.18:074][781]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.18:074][781]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.18:083][782]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.18:083][782]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.18:083][782]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.18:083][782]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.18:092][783]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.18:092][783]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.18:092][783]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.18:092][783]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.18:101][784]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.18:101][784]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.18:101][784]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.18:101][784]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.18:110][785]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.18:110][785]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.18:110][785]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.18:110][785]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.18:119][786]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.18:119][786]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.18:119][786]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.18:119][786]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.18:128][787]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.18:128][787]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.18:128][787]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.18:128][787]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.18:140][788]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.18:140][788]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.18:140][788]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.18:140][788]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.18:149][789]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.18:149][789]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.18:149][789]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.18:149][789]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.18:157][790]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.18:157][790]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.18:157][790]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.18:157][790]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.18:166][791]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.18:166][791]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.18:166][791]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.18:166][791]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.18:174][792]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.18:174][792]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.18:174][792]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.18:174][792]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.18:183][793]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.18:183][793]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.18:183][793]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.18:183][793]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.18:192][794]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.18:193][794]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property RefParentZombieTank". Node:  Return Node Graph:  GetPercent_0 Function:  Get Percent 0 Blueprint:  WB_ZombieTank_Health
+[2024.01.18-13.47.18:193][794]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.18-13.47.18:193][794]LogScript: Warning: Script Msg called by: WB_ZombieTank_Health_C /Engine/Transient.UnrealEdEngine_0:GameInstance_38.WB_ZombieTank_Health_C_0
+[2024.01.18-13.47.19:037][888]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.18-13.47.19:037][888]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Factory
+[2024.01.18-13.47.19:038][888]LogWorld: UWorld::CleanupWorld for Factory, bSessionEnded=true, bCleanupResources=true
+[2024.01.18-13.47.19:041][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.18-13.47.19:045][888]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.18-13.47.19:052][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.18-13.47.19:067][888]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.18-13.47.19:069][888]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 40
+[2024.01.18-13.47.19:069][888]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2024.01.18-13.47.19:071][888]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2024.01.18-13.47.19:075][888]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.18-13.47.19:083][888]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.01.18-13.47.19:261][889]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2024.01.18-13.47.23:571][367]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/TopDown/Blueprints/Widget/WB_ZombieTank_Health.WB_ZombieTank_Health
+[2024.01.18-13.47.23:571][367]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.18-13.47.23:571][367]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.18-13.47.23:581][367]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.18-13.47.23:581][367]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.18-13.47.32:414][388]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2024.01.18-13.47.32:414][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.18-13.47.32:424][388]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2024.01.18-13.47.32:424][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.18-13.47.53:335][708]LogViewport: Scene viewport resized to 1522x935, mode Windowed.
+[2024.01.18-13.48.01:468][571]LogViewport: Scene viewport resized to 1521x935, mode Windowed.
+[2024.01.18-13.48.01:487][572]LogViewport: Scene viewport resized to 1514x935, mode Windowed.
+[2024.01.18-13.48.01:506][573]LogViewport: Scene viewport resized to 1510x935, mode Windowed.
+[2024.01.18-13.48.01:526][574]LogViewport: Scene viewport resized to 1506x935, mode Windowed.
+[2024.01.18-13.48.01:545][575]LogViewport: Scene viewport resized to 1500x935, mode Windowed.
+[2024.01.18-13.48.01:565][576]LogViewport: Scene viewport resized to 1488x935, mode Windowed.
+[2024.01.18-13.48.01:585][577]LogViewport: Scene viewport resized to 1475x935, mode Windowed.
+[2024.01.18-13.48.01:604][578]LogViewport: Scene viewport resized to 1461x935, mode Windowed.
+[2024.01.18-13.48.01:624][579]LogViewport: Scene viewport resized to 1450x935, mode Windowed.
+[2024.01.18-13.48.01:643][580]LogViewport: Scene viewport resized to 1441x935, mode Windowed.
+[2024.01.18-13.48.01:662][581]LogViewport: Scene viewport resized to 1435x935, mode Windowed.
+[2024.01.18-13.48.01:681][582]LogViewport: Scene viewport resized to 1428x935, mode Windowed.
+[2024.01.18-13.48.01:702][583]LogViewport: Scene viewport resized to 1420x935, mode Windowed.
+[2024.01.18-13.48.01:721][584]LogViewport: Scene viewport resized to 1415x935, mode Windowed.
+[2024.01.18-13.48.01:738][585]LogViewport: Scene viewport resized to 1414x935, mode Windowed.
+[2024.01.18-13.48.01:799][591]LogViewport: Scene viewport resized to 1411x935, mode Windowed.
+[2024.01.18-13.48.13:668][824]BlueprintLog: New page: Compile BP_ZombieBoss
+[2024.01.18-13.48.13:808][824]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.01.18-13.48.14:420][845]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.18-13.48.14:482][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/Enemy/BP_ZombieBoss" FILE="F:/Topdown_Shooter/TopDown_Shooter/Content/TopDown/Blueprints/Enemy/BP_ZombieBoss.uasset" SILENT=true
+[2024.01.18-13.48.14:497][845]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Enemy/BP_ZombieBoss
+[2024.01.18-13.48.14:498][845]LogSavePackage: Moving 'F:/Topdown_Shooter/TopDown_Shooter/Saved/BP_ZombieBoss8CC40F194A133E5C95F6F49C4D8B27AD.tmp' to 'F:/Topdown_Shooter/TopDown_Shooter/Content/TopDown/Blueprints/Enemy/BP_ZombieBoss.uasset'
+[2024.01.18-13.48.14:506][845]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 5.38 sec)
+[2024.01.18-13.48.14:508][845]AssetCheck: New page: Asset Save: BP_ZombieBoss
+[2024.01.18-13.48.14:508][845]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/Enemy/BP_ZombieBoss.BP_ZombieBoss
+[2024.01.18-13.48.16:205][991]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.18-13.48.16:215][991]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.18-13.48.16:215][991]PIE: New page: PIE session: Factory (18 janv. 2024 à 15:48:16)
+[2024.01.18-13.48.16:237][991]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Factory
+[2024.01.18-13.48.16:268][991]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031333s)
+[2024.01.18-13.48.16:268][991]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Factory.Factory to /Game/UEDPIE_0_Factory.Factory (0.031369s)
+[2024.01.18-13.48.16:287][991]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.01.18-13.48.16:293][991]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.18-13.48.16:293][991]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.18-13.48.16:294][991]LogAIModule: Creating AISystem for world Factory
+[2024.01.18-13.48.16:294][991]LogPlayLevel: PIE: World Init took: (0.001265s)
+[2024.01.18-13.48.16:294][991]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2024.01.18-13.48.16:294][991]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.18-13.48.16:294][991]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.18-13.48.16:294][991]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.18-13.48.16:294][991]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.18-13.48.16:295][991]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.18-13.48.16:295][991]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.18-13.48.16:295][991]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.18-13.48.16:295][991]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.18-13.48.16:295][991]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.18-13.48.16:295][991]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.18-13.48.16:295][991]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.18-13.48.16:297][991]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.18-13.48.16:316][991]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Synaptics HD Audio)
+[2024.01.18-13.48.16:317][991]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.18-13.48.16:317][991]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.18-13.48.16:317][991]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.18-13.48.16:317][991]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2024.01.18-13.48.16:318][991]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=41
+[2024.01.18-13.48.16:320][991]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2024.01.18-13.48.16:320][991]LogInit: FAudioDevice initialized with ID 41.
+[2024.01.18-13.48.16:320][991]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=41
+[2024.01.18-13.48.16:320][991]LogAudio: Display: Audio Device (ID: 41) registered with world 'Factory'.
+[2024.01.18-13.48.16:320][991]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 41
+[2024.01.18-13.48.16:323][991]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.01.18-13.48.16:345][991]LogWorld: Bringing World /Game/UEDPIE_0_Factory.Factory up for play (max tick rate 0) at 2024.01.18-14.48.16
+[2024.01.18-13.48.16:347][991]LogWorld: Bringing up level for play took: 0.023698
+[2024.01.18-13.48.16:349][991]LogOnline: OSS: Created online subsystem instance for: :Context_85
+[2024.01.18-13.48.16:353][991]PIE: Server logged in
+[2024.01.18-13.48.16:355][991]PIE: Play in editor total start time 0,14 seconds.
+[2024.01.18-13.48.21:077][502]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.18-13.48.21:077][502]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Factory
+[2024.01.18-13.48.21:078][502]LogWorld: UWorld::CleanupWorld for Factory, bSessionEnded=true, bCleanupResources=true
+[2024.01.18-13.48.21:080][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.18-13.48.21:086][502]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.18-13.48.21:092][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.18-13.48.21:106][502]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.18-13.48.21:107][502]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 41
+[2024.01.18-13.48.21:107][502]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2024.01.18-13.48.21:109][502]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2024.01.18-13.48.21:113][502]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.18-13.48.21:120][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.01.18-13.48.21:246][503]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2024.01.18-13.48.36:785][ 30]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/Enemy/BP_ZombieTank.BP_ZombieTank_C
+[2024.01.18-13.48.36:785][ 30]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/Enemy/BP_ZombieTank.BP_ZombieTank_C
+[2024.01.18-13.48.36:795][ 30]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/Enemy/BP_ZombieTank.BP_ZombieTank as actor: BP_ZombieTank_C /Game/Factory.Factory:PersistentLevel.BP_ZombieTank_C_0
+[2024.01.18-13.48.36:802][ 30]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/Enemy/BP_ZombieTank.BP_ZombieTank as actor: BP_ZombieTank_C /Game/Factory.Factory:PersistentLevel.BP_ZombieTank_C_0
+[2024.01.18-13.48.37:210][ 52]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/Enemy/BP_ZombieTank.BP_ZombieTank_C
+[2024.01.18-13.48.37:210][ 52]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/Enemy/BP_ZombieTank.BP_ZombieTank_C
+[2024.01.18-13.48.37:222][ 52]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/Enemy/BP_ZombieTank.BP_ZombieTank as actor: BP_ZombieTank_C /Game/Factory.Factory:PersistentLevel.BP_ZombieTank_C_1
+[2024.01.18-13.48.37:230][ 52]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/Enemy/BP_ZombieTank.BP_ZombieTank as actor: BP_ZombieTank_C /Game/Factory.Factory:PersistentLevel.BP_ZombieTank_C_1
+[2024.01.18-13.48.38:571][152]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.18-13.48.38:580][152]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.18-13.48.38:581][152]PIE: New page: PIE session: Factory (18 janv. 2024 à 15:48:38)
+[2024.01.18-13.48.38:581][152]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Factory
+[2024.01.18-13.48.38:610][152]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030460s)
+[2024.01.18-13.48.38:610][152]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Factory.Factory to /Game/UEDPIE_0_Factory.Factory (0.030501s)
+[2024.01.18-13.48.38:628][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.01.18-13.48.38:633][152]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.18-13.48.38:633][152]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.18-13.48.38:634][152]LogAIModule: Creating AISystem for world Factory
+[2024.01.18-13.48.38:635][152]LogPlayLevel: PIE: World Init took: (0.001530s)
+[2024.01.18-13.48.38:635][152]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2024.01.18-13.48.38:635][152]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.18-13.48.38:635][152]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.18-13.48.38:635][152]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.18-13.48.38:635][152]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.18-13.48.38:635][152]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.18-13.48.38:635][152]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.18-13.48.38:635][152]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.18-13.48.38:635][152]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.18-13.48.38:636][152]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.18-13.48.38:636][152]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.18-13.48.38:636][152]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.18-13.48.38:639][152]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.18-13.48.38:658][152]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Synaptics HD Audio)
+[2024.01.18-13.48.38:658][152]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.18-13.48.38:658][152]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.18-13.48.38:658][152]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.18-13.48.38:659][152]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=42
+[2024.01.18-13.48.38:659][152]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=42
+[2024.01.18-13.48.38:661][152]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=42
+[2024.01.18-13.48.38:661][152]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=42
+[2024.01.18-13.48.38:661][152]LogInit: FAudioDevice initialized with ID 42.
+[2024.01.18-13.48.38:661][152]LogAudio: Display: Audio Device (ID: 42) registered with world 'Factory'.
+[2024.01.18-13.48.38:661][152]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 42
+[2024.01.18-13.48.38:664][152]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.01.18-13.48.38:689][152]LogWorld: Bringing World /Game/UEDPIE_0_Factory.Factory up for play (max tick rate 0) at 2024.01.18-14.48.38
+[2024.01.18-13.48.38:692][152]LogWorld: Bringing up level for play took: 0.027171
+[2024.01.18-13.48.38:694][152]LogOnline: OSS: Created online subsystem instance for: :Context_86
+[2024.01.18-13.48.38:699][152]PIE: Server logged in
+[2024.01.18-13.48.38:700][152]PIE: Play in editor total start time 0,121 seconds.
+[2024.01.18-13.48.46:218][978]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.18-13.48.46:218][978]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Factory
+[2024.01.18-13.48.46:219][978]LogWorld: UWorld::CleanupWorld for Factory, bSessionEnded=true, bCleanupResources=true
+[2024.01.18-13.48.46:222][978]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.18-13.48.46:249][978]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.18-13.48.46:255][978]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.18-13.48.46:270][978]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.18-13.48.46:271][978]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 42
+[2024.01.18-13.48.46:271][978]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2024.01.18-13.48.46:273][978]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2024.01.18-13.48.46:277][978]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.18-13.48.46:285][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.01.18-13.48.46:410][979]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2024.01.18-13.48.51:928][459]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2024.01.18-13.48.51:928][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.18-13.48.51:937][459]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2024.01.18-13.48.51:937][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.18-13.48.52:566][508]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2024.01.18-13.48.52:566][508]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.18-13.48.52:575][508]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2024.01.18-13.48.52:575][508]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.18-13.48.54:628][709]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2024.01.18-13.48.54:628][709]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.18-13.48.58:498][ 37]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDown/Blueprints/Enemy/BP_ZombieTank.BP_ZombieTank
+[2024.01.18-13.48.58:498][ 37]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.18-13.48.58:498][ 37]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.18-13.49.28:047][292]BlueprintLog: New page: Compile BP_ZombieBoss
+[2024.01.18-13.49.28:117][292]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.01.18-13.49.28:683][335]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.18-13.49.28:797][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/Enemy/BP_ZombieBoss" FILE="F:/Topdown_Shooter/TopDown_Shooter/Content/TopDown/Blueprints/Enemy/BP_ZombieBoss.uasset" SILENT=true
+[2024.01.18-13.49.28:812][335]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Enemy/BP_ZombieBoss
+[2024.01.18-13.49.28:812][335]LogSavePackage: Moving 'F:/Topdown_Shooter/TopDown_Shooter/Saved/BP_ZombieBoss379F1E2A4C965F78937FB69E958E4B05.tmp' to 'F:/Topdown_Shooter/TopDown_Shooter/Content/TopDown/Blueprints/Enemy/BP_ZombieBoss.uasset'
+[2024.01.18-13.49.28:821][335]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 5.52 sec)
+[2024.01.18-13.49.28:822][335]AssetCheck: New page: Asset Save: BP_ZombieBoss
+[2024.01.18-13.49.28:822][335]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/Enemy/BP_ZombieBoss.BP_ZombieBoss
+[2024.01.18-13.49.30:610][488]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.18-13.49.30:619][488]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.01.18-13.49.30:622][488]LogPlayLevel: [PlayLevel] Compiling BP_ZombieTank before play...
+[2024.01.18-13.49.30:895][488]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.01.18-13.49.30:901][488]LogPlayLevel: PlayLevel: Blueprint regeneration took 282 ms (1 blueprints)
+[2024.01.18-13.49.30:901][488]PIE: New page: PIE session: Factory (18 janv. 2024 à 15:49:30)
+[2024.01.18-13.49.30:927][488]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Factory
+[2024.01.18-13.49.30:955][488]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028615s)
+[2024.01.18-13.49.30:956][488]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Factory.Factory to /Game/UEDPIE_0_Factory.Factory (0.028649s)
+[2024.01.18-13.49.30:970][488]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.01.18-13.49.30:971][488]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.18-13.49.30:971][488]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.18-13.49.30:972][488]LogAIModule: Creating AISystem for world Factory
+[2024.01.18-13.49.30:972][488]LogPlayLevel: PIE: World Init took: (0.001036s)
+[2024.01.18-13.49.30:972][488]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2024.01.18-13.49.30:972][488]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.18-13.49.30:972][488]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.18-13.49.30:972][488]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.18-13.49.30:972][488]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.18-13.49.30:972][488]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.18-13.49.30:972][488]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.18-13.49.30:972][488]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.18-13.49.30:972][488]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.18-13.49.30:973][488]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.18-13.49.30:973][488]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.18-13.49.30:973][488]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.18-13.49.30:975][488]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.18-13.49.30:994][488]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Synaptics HD Audio)
+[2024.01.18-13.49.30:994][488]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.18-13.49.30:994][488]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.18-13.49.30:994][488]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.18-13.49.30:995][488]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=43
+[2024.01.18-13.49.30:995][488]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=43
+[2024.01.18-13.49.30:997][488]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=43
+[2024.01.18-13.49.30:997][488]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=43
+[2024.01.18-13.49.30:997][488]LogInit: FAudioDevice initialized with ID 43.
+[2024.01.18-13.49.30:997][488]LogAudio: Display: Audio Device (ID: 43) registered with world 'Factory'.
+[2024.01.18-13.49.30:997][488]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 43
+[2024.01.18-13.49.31:002][488]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.01.18-13.49.31:025][488]LogWorld: Bringing World /Game/UEDPIE_0_Factory.Factory up for play (max tick rate 0) at 2024.01.18-14.49.31
+[2024.01.18-13.49.31:027][488]LogWorld: Bringing up level for play took: 0.025427
+[2024.01.18-13.49.31:029][488]LogOnline: OSS: Created online subsystem instance for: :Context_88
+[2024.01.18-13.49.31:034][488]PIE: Server logged in
+[2024.01.18-13.49.31:034][488]PIE: Play in editor total start time 0,415 seconds.
+[2024.01.18-13.49.41:207][596]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.18-13.49.41:207][596]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Factory
+[2024.01.18-13.49.41:208][596]LogWorld: UWorld::CleanupWorld for Factory, bSessionEnded=true, bCleanupResources=true
+[2024.01.18-13.49.41:210][596]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.18-13.49.41:216][596]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.18-13.49.41:222][596]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.18-13.49.41:236][596]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.18-13.49.41:238][596]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 43
+[2024.01.18-13.49.41:238][596]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2024.01.18-13.49.41:240][596]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2024.01.18-13.49.41:251][596]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.01.18-13.49.41:377][597]LogPlayLevel: Display: Destroying online subsystem :Context_88
+[2024.01.18-13.49.57:286][355]BlueprintLog: New page: Compile BP_ZombieBoss
+[2024.01.18-13.49.57:366][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.01.18-13.49.58:108][419]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.18-13.49.58:259][419]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/Enemy/BP_ZombieBoss" FILE="F:/Topdown_Shooter/TopDown_Shooter/Content/TopDown/Blueprints/Enemy/BP_ZombieBoss.uasset" SILENT=true
+[2024.01.18-13.49.58:275][419]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Enemy/BP_ZombieBoss
+[2024.01.18-13.49.58:275][419]LogSavePackage: Moving 'F:/Topdown_Shooter/TopDown_Shooter/Saved/BP_ZombieBoss8C5BD45F45D280119D86AB8443A89098.tmp' to 'F:/Topdown_Shooter/TopDown_Shooter/Content/TopDown/Blueprints/Enemy/BP_ZombieBoss.uasset'
+[2024.01.18-13.49.58:284][419]LogFileHelpers: InternalPromptForCheckoutAndSave took 176 ms (total: 5.70 sec)
+[2024.01.18-13.49.58:285][419]AssetCheck: New page: Asset Save: BP_ZombieBoss
+[2024.01.18-13.49.58:285][419]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/Enemy/BP_ZombieBoss.BP_ZombieBoss
+[2024.01.18-13.50.04:452][ 40]LogEditorViewport: Clicking Background
+[2024.01.18-13.50.05:743][165]Cmd: DELETE
+[2024.01.18-13.50.05:743][165]Cmd: ACTOR DELETE
+[2024.01.18-13.50.05:864][165]LogEditorActor: Deleted Actor: BP_ZombieTank_C
+[2024.01.18-13.50.05:886][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.01.18-13.50.05:894][165]LogEditorActor: Deleted 1 Actors (0.151 secs)
+[2024.01.18-13.50.06:907][242]Cmd: DELETE
+[2024.01.18-13.50.06:907][242]Cmd: ACTOR DELETE
+[2024.01.18-13.50.06:920][242]LogEditorActor: Deleted Actor: BP_ZombieBoss_C
+[2024.01.18-13.50.06:936][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.01.18-13.50.06:942][242]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2024.01.18-13.50.12:483][841]LogContentBrowser: Deferred new asset file creation: BP_EnemySpawnerCAC1
+[2024.01.18-13.50.12:489][841]LogContentBrowser: Creating deferred item: BP_EnemySpawnerCAC1
+[2024.01.18-13.50.12:501][842]LogContentBrowser: Renaming the item being created (Deferred Item: BP_EnemySpawnerCAC1).
+[2024.01.18-13.50.18:141][473]LogContentBrowser: Attempting asset rename: BP_EnemySpawnerCAC1 -> BP_EnemySpawnerBoss
+[2024.01.18-13.50.18:165][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.01.18-13.50.18:180][473]LogContentBrowser: End creating deferred item BP_EnemySpawnerCAC1
+[2024.01.18-13.50.18:586][520]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDown/Blueprints/Spawner/BP_EnemySpawnerBoss.BP_EnemySpawnerBoss
+[2024.01.18-13.50.18:586][520]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.18-13.50.18:587][520]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.18-13.50.58:085][401]BlueprintLog: New page: Compile BP_EnemySpawnerBoss
+[2024.01.18-13.50.58:115][401]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.01.18-13.50.58:675][443]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.18-13.50.58:711][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/Spawner/BP_EnemySpawnerBoss" FILE="F:/Topdown_Shooter/TopDown_Shooter/Content/TopDown/Blueprints/Spawner/BP_EnemySpawnerBoss.uasset" SILENT=true
+[2024.01.18-13.50.58:715][443]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Spawner/BP_EnemySpawnerBoss
+[2024.01.18-13.50.58:715][443]LogSavePackage: Moving 'F:/Topdown_Shooter/TopDown_Shooter/Saved/BP_EnemySpawnerBoss1D8B298145E7E5835326D1A9696035E5.tmp' to 'F:/Topdown_Shooter/TopDown_Shooter/Content/TopDown/Blueprints/Spawner/BP_EnemySpawnerBoss.uasset'
+[2024.01.18-13.50.58:726][443]LogFileHelpers: InternalPromptForCheckoutAndSave took 51 ms (total: 5.75 sec)
+[2024.01.18-13.50.58:727][443]AssetCheck: New page: Asset Save: BP_EnemySpawnerBoss
+[2024.01.18-13.50.58:727][443]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/Spawner/BP_EnemySpawnerBoss.BP_EnemySpawnerBoss
+[2024.01.18-13.51.00:006][548]LogSlate: Window 'BP_EnemySpawnerBoss' being destroyed
+[2024.01.18-13.51.02:732][837]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/Spawner/BP_EnemySpawnerBoss.BP_EnemySpawnerBoss_C
+[2024.01.18-13.51.02:732][837]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/Spawner/BP_EnemySpawnerBoss.BP_EnemySpawnerBoss_C
+[2024.01.18-13.51.02:733][837]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/Spawner/BP_EnemySpawnerBoss.BP_EnemySpawnerBoss as actor: BP_EnemySpawnerBoss_C /Game/Factory.Factory:PersistentLevel.BP_EnemySpawnerBoss_C_0
+[2024.01.18-13.51.02:734][837]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/Spawner/BP_EnemySpawnerBoss.BP_EnemySpawnerBoss as actor: BP_EnemySpawnerBoss_C /Game/Factory.Factory:PersistentLevel.BP_EnemySpawnerBoss_C_0
+[2024.01.18-13.51.03:234][879]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/Spawner/BP_EnemySpawnerBoss.BP_EnemySpawnerBoss_C
+[2024.01.18-13.51.03:234][879]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/Spawner/BP_EnemySpawnerBoss.BP_EnemySpawnerBoss_C
+[2024.01.18-13.51.03:235][879]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/Spawner/BP_EnemySpawnerBoss.BP_EnemySpawnerBoss as actor: BP_EnemySpawnerBoss_C /Game/Factory.Factory:PersistentLevel.BP_EnemySpawnerBoss_C_1
+[2024.01.18-13.51.03:236][879]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/Spawner/BP_EnemySpawnerBoss.BP_EnemySpawnerBoss as actor: BP_EnemySpawnerBoss_C /Game/Factory.Factory:PersistentLevel.BP_EnemySpawnerBoss_C_1
+[2024.01.18-13.51.05:578][105]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.18-13.51.05:594][105]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.01.18-13.51.05:596][105]LogPlayLevel: [PlayLevel] Compiling BP_ZombieTank before play...
+[2024.01.18-13.51.05:756][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.01.18-13.51.05:762][105]LogPlayLevel: PlayLevel: Blueprint regeneration took 169 ms (1 blueprints)
+[2024.01.18-13.51.05:762][105]PIE: New page: PIE session: Factory (18 janv. 2024 à 15:51:05)
+[2024.01.18-13.51.05:762][105]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Factory
+[2024.01.18-13.51.05:791][105]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028368s)
+[2024.01.18-13.51.05:791][105]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Factory.Factory to /Game/UEDPIE_0_Factory.Factory (0.028423s)
+[2024.01.18-13.51.05:806][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.01.18-13.51.05:807][105]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.18-13.51.05:807][105]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.18-13.51.05:808][105]LogAIModule: Creating AISystem for world Factory
+[2024.01.18-13.51.05:808][105]LogPlayLevel: PIE: World Init took: (0.001173s)
+[2024.01.18-13.51.05:808][105]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2024.01.18-13.51.05:808][105]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.18-13.51.05:808][105]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.18-13.51.05:808][105]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.18-13.51.05:808][105]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.18-13.51.05:808][105]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.18-13.51.05:808][105]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.18-13.51.05:808][105]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.18-13.51.05:808][105]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.18-13.51.05:809][105]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.18-13.51.05:809][105]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.18-13.51.05:809][105]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.18-13.51.05:811][105]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.18-13.51.05:830][105]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Synaptics HD Audio)
+[2024.01.18-13.51.05:830][105]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.18-13.51.05:830][105]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.18-13.51.05:830][105]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.18-13.51.05:830][105]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=44
+[2024.01.18-13.51.05:830][105]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=44
+[2024.01.18-13.51.05:833][105]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=44
+[2024.01.18-13.51.05:833][105]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=44
+[2024.01.18-13.51.05:833][105]LogInit: FAudioDevice initialized with ID 44.
+[2024.01.18-13.51.05:833][105]LogAudio: Display: Audio Device (ID: 44) registered with world 'Factory'.
+[2024.01.18-13.51.05:833][105]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 44
+[2024.01.18-13.51.05:837][105]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.01.18-13.51.05:857][105]LogWorld: Bringing World /Game/UEDPIE_0_Factory.Factory up for play (max tick rate 0) at 2024.01.18-14.51.05
+[2024.01.18-13.51.05:857][105]LogWorld: Bringing up level for play took: 0.020158
+[2024.01.18-13.51.05:860][105]LogOnline: OSS: Created online subsystem instance for: :Context_90
+[2024.01.18-13.51.05:864][105]PIE: Server logged in
+[2024.01.18-13.51.05:865][105]PIE: Play in editor total start time 0,278 seconds.
+[2024.01.18-13.51.10:698][620]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.18-13.51.10:698][620]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Factory
+[2024.01.18-13.51.10:699][620]LogWorld: UWorld::CleanupWorld for Factory, bSessionEnded=true, bCleanupResources=true
+[2024.01.18-13.51.10:702][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.18-13.51.10:706][620]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.18-13.51.10:712][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.18-13.51.10:725][620]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.18-13.51.10:725][620]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 44
+[2024.01.18-13.51.10:726][620]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2024.01.18-13.51.10:727][620]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2024.01.18-13.51.10:731][620]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.18-13.51.10:740][620]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.01.18-13.51.10:813][621]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2024.01.18-13.51.14:329][916]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/Enemy/BP_ZombieCAC.BP_ZombieCAC_C
+[2024.01.18-13.51.14:329][916]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/Enemy/BP_ZombieCAC.BP_ZombieCAC_C
+[2024.01.18-13.51.14:339][916]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/Enemy/BP_ZombieCAC.BP_ZombieCAC as actor: BP_ZombieCAC_C /Game/Factory.Factory:PersistentLevel.BP_ZombieCAC_C_0
+[2024.01.18-13.51.14:345][916]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/Enemy/BP_ZombieCAC.BP_ZombieCAC as actor: BP_ZombieCAC_C /Game/Factory.Factory:PersistentLevel.BP_ZombieCAC_C_0
+[2024.01.18-13.51.14:849][942]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/Enemy/BP_ZombieCAC.BP_ZombieCAC_C
+[2024.01.18-13.51.14:849][942]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/Enemy/BP_ZombieCAC.BP_ZombieCAC_C
+[2024.01.18-13.51.14:860][942]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/Enemy/BP_ZombieCAC.BP_ZombieCAC as actor: BP_ZombieCAC_C /Game/Factory.Factory:PersistentLevel.BP_ZombieCAC_C_1
+[2024.01.18-13.51.14:867][942]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/Enemy/BP_ZombieCAC.BP_ZombieCAC as actor: BP_ZombieCAC_C /Game/Factory.Factory:PersistentLevel.BP_ZombieCAC_C_1
+[2024.01.18-13.51.16:112][ 39]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.18-13.51.16:119][ 39]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.18-13.51.16:120][ 39]PIE: New page: PIE session: Factory (18 janv. 2024 à 15:51:16)
+[2024.01.18-13.51.16:120][ 39]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Factory
+[2024.01.18-13.51.16:150][ 39]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030608s)
+[2024.01.18-13.51.16:150][ 39]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Factory.Factory to /Game/UEDPIE_0_Factory.Factory (0.030638s)
+[2024.01.18-13.51.16:168][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.01.18-13.51.16:172][ 39]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.18-13.51.16:173][ 39]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.18-13.51.16:173][ 39]LogAIModule: Creating AISystem for world Factory
+[2024.01.18-13.51.16:173][ 39]LogPlayLevel: PIE: World Init took: (0.001045s)
+[2024.01.18-13.51.16:173][ 39]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2024.01.18-13.51.16:174][ 39]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.18-13.51.16:174][ 39]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.18-13.51.16:174][ 39]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.18-13.51.16:174][ 39]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.18-13.51.16:174][ 39]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.18-13.51.16:174][ 39]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.18-13.51.16:174][ 39]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.18-13.51.16:174][ 39]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.18-13.51.16:174][ 39]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.18-13.51.16:174][ 39]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.18-13.51.16:175][ 39]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.18-13.51.16:176][ 39]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.18-13.51.16:194][ 39]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Synaptics HD Audio)
+[2024.01.18-13.51.16:194][ 39]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.18-13.51.16:194][ 39]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.18-13.51.16:194][ 39]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.18-13.51.16:195][ 39]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=45
+[2024.01.18-13.51.16:195][ 39]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=45
+[2024.01.18-13.51.16:197][ 39]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=45
+[2024.01.18-13.51.16:198][ 39]LogInit: FAudioDevice initialized with ID 45.
+[2024.01.18-13.51.16:198][ 39]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=45
+[2024.01.18-13.51.16:198][ 39]LogAudio: Display: Audio Device (ID: 45) registered with world 'Factory'.
+[2024.01.18-13.51.16:198][ 39]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 45
+[2024.01.18-13.51.16:200][ 39]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.01.18-13.51.16:225][ 39]LogWorld: Bringing World /Game/UEDPIE_0_Factory.Factory up for play (max tick rate 0) at 2024.01.18-14.51.16
+[2024.01.18-13.51.16:228][ 39]LogWorld: Bringing up level for play took: 0.026383
+[2024.01.18-13.51.16:230][ 39]LogOnline: OSS: Created online subsystem instance for: :Context_91
+[2024.01.18-13.51.16:234][ 39]PIE: Server logged in
+[2024.01.18-13.51.16:235][ 39]PIE: Play in editor total start time 0,115 seconds.
+[2024.01.18-13.51.35:768][155]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.18-13.51.35:768][155]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Factory
+[2024.01.18-13.51.35:769][155]LogWorld: UWorld::CleanupWorld for Factory, bSessionEnded=true, bCleanupResources=true
+[2024.01.18-13.51.35:773][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.18-13.51.35:779][155]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.18-13.51.35:786][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.18-13.51.35:808][155]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.18-13.51.35:810][155]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 45
+[2024.01.18-13.51.35:810][155]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2024.01.18-13.51.35:812][155]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2024.01.18-13.51.35:816][155]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.18-13.51.35:827][155]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.01.18-13.51.35:963][156]LogPlayLevel: Display: Destroying online subsystem :Context_91
+[2024.01.18-13.51.44:915][162]BlueprintLog: New page: Compile BP_EnemySpawnerBoss
+[2024.01.18-13.51.44:943][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.01.18-13.51.45:619][236]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.18-13.51.45:683][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/Spawner/BP_EnemySpawnerBoss" FILE="F:/Topdown_Shooter/TopDown_Shooter/Content/TopDown/Blueprints/Spawner/BP_EnemySpawnerBoss.uasset" SILENT=true
+[2024.01.18-13.51.45:688][236]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Spawner/BP_EnemySpawnerBoss
+[2024.01.18-13.51.45:688][236]LogSavePackage: Moving 'F:/Topdown_Shooter/TopDown_Shooter/Saved/BP_EnemySpawnerBossACBBE5A4452EDA5F4B99BFB570B8714E.tmp' to 'F:/Topdown_Shooter/TopDown_Shooter/Content/TopDown/Blueprints/Spawner/BP_EnemySpawnerBoss.uasset'
+[2024.01.18-13.51.45:695][236]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 5.83 sec)
+[2024.01.18-13.51.45:696][236]AssetCheck: New page: Asset Save: BP_EnemySpawnerBoss
+[2024.01.18-13.51.45:696][236]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/Spawner/BP_EnemySpawnerBoss.BP_EnemySpawnerBoss
+[2024.01.18-13.52.08:979][425]LogEditorViewport: Clicking Background
+[2024.01.18-13.52.13:207][851]LogEditorViewport: Clicking Background
+[2024.01.18-13.52.16:059][ 81]Cmd: EDIT COPY
+[2024.01.18-13.52.16:309][105]Cmd: EDIT PASTE
+[2024.01.18-13.52.18:890][352]LogEditorViewport: Clicking Background
+[2024.01.18-13.52.23:872][832]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/Spawner/BP_EnemySpawnerCAC.BP_EnemySpawnerCAC_C
+[2024.01.18-13.52.23:873][832]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/Spawner/BP_EnemySpawnerCAC.BP_EnemySpawnerCAC_C
+[2024.01.18-13.52.23:873][832]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/Spawner/BP_EnemySpawnerCAC.BP_EnemySpawnerCAC as actor: BP_EnemySpawnerCAC_C /Game/Factory.Factory:PersistentLevel.BP_EnemySpawnerCAC_C_0
+[2024.01.18-13.52.23:874][832]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/Spawner/BP_EnemySpawnerCAC.BP_EnemySpawnerCAC as actor: BP_EnemySpawnerCAC_C /Game/Factory.Factory:PersistentLevel.BP_EnemySpawnerCAC_C_0
+[2024.01.18-13.52.24:782][916]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/Spawner/BP_EnemySpawnerCAC.BP_EnemySpawnerCAC_C
+[2024.01.18-13.52.24:782][916]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/Spawner/BP_EnemySpawnerCAC.BP_EnemySpawnerCAC_C
+[2024.01.18-13.52.24:784][916]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/Spawner/BP_EnemySpawnerCAC.BP_EnemySpawnerCAC as actor: BP_EnemySpawnerCAC_C /Game/Factory.Factory:PersistentLevel.BP_EnemySpawnerCAC_C_1
+[2024.01.18-13.52.24:785][916]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/Spawner/BP_EnemySpawnerCAC.BP_EnemySpawnerCAC as actor: BP_EnemySpawnerCAC_C /Game/Factory.Factory:PersistentLevel.BP_EnemySpawnerCAC_C_1
+[2024.01.18-13.52.26:405][ 60]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/Spawner/BP_EnemySpawnerCAC.BP_EnemySpawnerCAC_C
+[2024.01.18-13.52.26:405][ 60]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/Spawner/BP_EnemySpawnerCAC.BP_EnemySpawnerCAC_C
+[2024.01.18-13.52.26:406][ 60]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/Spawner/BP_EnemySpawnerCAC.BP_EnemySpawnerCAC as actor: BP_EnemySpawnerCAC_C /Game/Factory.Factory:PersistentLevel.BP_EnemySpawnerCAC_C_2
+[2024.01.18-13.52.26:407][ 60]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/Spawner/BP_EnemySpawnerCAC.BP_EnemySpawnerCAC as actor: BP_EnemySpawnerCAC_C /Game/Factory.Factory:PersistentLevel.BP_EnemySpawnerCAC_C_2
+[2024.01.18-13.52.27:008][ 98]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/Spawner/BP_EnemySpawnerCAC.BP_EnemySpawnerCAC_C
+[2024.01.18-13.52.27:008][ 98]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/Spawner/BP_EnemySpawnerCAC.BP_EnemySpawnerCAC_C
+[2024.01.18-13.52.27:010][ 98]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/Spawner/BP_EnemySpawnerCAC.BP_EnemySpawnerCAC as actor: BP_EnemySpawnerCAC_C /Game/Factory.Factory:PersistentLevel.BP_EnemySpawnerCAC_C_3
+[2024.01.18-13.52.27:010][ 98]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/Spawner/BP_EnemySpawnerCAC.BP_EnemySpawnerCAC as actor: BP_EnemySpawnerCAC_C /Game/Factory.Factory:PersistentLevel.BP_EnemySpawnerCAC_C_3
+[2024.01.18-13.52.29:981][348]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/Spawner/BP_EnemySpawnerTANK.BP_EnemySpawnerTANK_C
+[2024.01.18-13.52.29:981][348]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/Spawner/BP_EnemySpawnerTANK.BP_EnemySpawnerTANK_C
+[2024.01.18-13.52.29:982][348]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/Spawner/BP_EnemySpawnerTANK.BP_EnemySpawnerTANK as actor: BP_EnemySpawnerTANK_C /Game/Factory.Factory:PersistentLevel.BP_EnemySpawnerTANK_C_0
+[2024.01.18-13.52.29:983][348]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/Spawner/BP_EnemySpawnerTANK.BP_EnemySpawnerTANK as actor: BP_EnemySpawnerTANK_C /Game/Factory.Factory:PersistentLevel.BP_EnemySpawnerTANK_C_0
+[2024.01.18-13.52.30:358][371]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/Spawner/BP_EnemySpawnerTANK.BP_EnemySpawnerTANK_C
+[2024.01.18-13.52.30:358][371]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/Spawner/BP_EnemySpawnerTANK.BP_EnemySpawnerTANK_C
+[2024.01.18-13.52.30:360][371]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/Spawner/BP_EnemySpawnerTANK.BP_EnemySpawnerTANK as actor: BP_EnemySpawnerTANK_C /Game/Factory.Factory:PersistentLevel.BP_EnemySpawnerTANK_C_1
+[2024.01.18-13.52.30:360][371]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/Spawner/BP_EnemySpawnerTANK.BP_EnemySpawnerTANK as actor: BP_EnemySpawnerTANK_C /Game/Factory.Factory:PersistentLevel.BP_EnemySpawnerTANK_C_1
+[2024.01.18-13.52.32:360][551]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/Spawner/BP_EnemySpawnerTANK.BP_EnemySpawnerTANK_C
+[2024.01.18-13.52.32:360][551]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/Spawner/BP_EnemySpawnerTANK.BP_EnemySpawnerTANK_C
+[2024.01.18-13.52.32:361][551]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/Spawner/BP_EnemySpawnerTANK.BP_EnemySpawnerTANK as actor: BP_EnemySpawnerTANK_C /Game/Factory.Factory:PersistentLevel.BP_EnemySpawnerTANK_C_2
+[2024.01.18-13.52.32:362][551]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/Spawner/BP_EnemySpawnerTANK.BP_EnemySpawnerTANK as actor: BP_EnemySpawnerTANK_C /Game/Factory.Factory:PersistentLevel.BP_EnemySpawnerTANK_C_2
+[2024.01.18-13.52.32:914][584]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/Spawner/BP_EnemySpawnerTANK.BP_EnemySpawnerTANK_C
+[2024.01.18-13.52.32:914][584]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/Spawner/BP_EnemySpawnerTANK.BP_EnemySpawnerTANK_C
+[2024.01.18-13.52.32:916][584]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/Spawner/BP_EnemySpawnerTANK.BP_EnemySpawnerTANK as actor: BP_EnemySpawnerTANK_C /Game/Factory.Factory:PersistentLevel.BP_EnemySpawnerTANK_C_3
+[2024.01.18-13.52.32:917][584]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/Spawner/BP_EnemySpawnerTANK.BP_EnemySpawnerTANK as actor: BP_EnemySpawnerTANK_C /Game/Factory.Factory:PersistentLevel.BP_EnemySpawnerTANK_C_3
+[2024.01.18-13.52.36:442][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.01.18-13.52.37:761][917]LogSlate: Window 'Save Content' being destroyed
+[2024.01.18-13.52.37:771][917]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.18-13.52.37:826][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Factory" FILE="F:/Topdown_Shooter/TopDown_Shooter/Content/Factory.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.18-13.52.37:867][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.01.18-13.52.37:955][917]LogSavePackage: Moving output files for package: /Game/Factory
+[2024.01.18-13.52.37:955][917]LogSavePackage: Moving 'F:/Topdown_Shooter/TopDown_Shooter/Saved/Factory95FC4D6E44D8BA653B2BE1B4F76A696B.tmp' to 'F:/Topdown_Shooter/TopDown_Shooter/Content/Factory.umap'
+[2024.01.18-13.52.37:964][917]LogFileHelpers: Saving map 'Factory' took 0.139
+[2024.01.18-13.52.38:018][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/Enemy/BP_ZombieTank" FILE="F:/Topdown_Shooter/TopDown_Shooter/Content/TopDown/Blueprints/Enemy/BP_ZombieTank.uasset" SILENT=true
+[2024.01.18-13.52.38:035][917]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Enemy/BP_ZombieTank
+[2024.01.18-13.52.38:035][917]LogSavePackage: Moving 'F:/Topdown_Shooter/TopDown_Shooter/Saved/BP_ZombieTank2054AA18475ABF48B9E61A9DB936F2DC.tmp' to 'F:/Topdown_Shooter/TopDown_Shooter/Content/TopDown/Blueprints/Enemy/BP_ZombieTank.uasset'
+[2024.01.18-13.52.38:044][917]LogFileHelpers: InternalPromptForCheckoutAndSave took 272 ms (total: 6.10 sec)
+[2024.01.18-13.52.38:047][917]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.18-13.52.38:047][917]LogContentValidation: Display: Validating /Script/Engine.World /Game/Factory.Factory
+[2024.01.18-13.52.38:047][917]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/Enemy/BP_ZombieTank.BP_ZombieTank
+[2024.01.18-13.52.38:991][  5]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.18-13.52.39:000][  5]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.18-13.52.39:000][  5]PIE: New page: PIE session: Factory (18 janv. 2024 à 15:52:39)
+[2024.01.18-13.52.39:000][  5]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Factory
+[2024.01.18-13.52.39:033][  5]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032339s)
+[2024.01.18-13.52.39:033][  5]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Factory.Factory to /Game/UEDPIE_0_Factory.Factory (0.032383s)
+[2024.01.18-13.52.39:047][  5]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.01.18-13.52.39:049][  5]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.18-13.52.39:049][  5]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.18-13.52.39:050][  5]LogAIModule: Creating AISystem for world Factory
+[2024.01.18-13.52.39:050][  5]LogPlayLevel: PIE: World Init took: (0.001056s)
+[2024.01.18-13.52.39:050][  5]LogAudio: Display: Creating Audio Device:                 Id: 46, Scope: Unique, Realtime: True
+[2024.01.18-13.52.39:050][  5]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.18-13.52.39:050][  5]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.18-13.52.39:050][  5]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.18-13.52.39:050][  5]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.18-13.52.39:050][  5]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.18-13.52.39:050][  5]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.18-13.52.39:050][  5]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.18-13.52.39:050][  5]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.18-13.52.39:051][  5]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.18-13.52.39:051][  5]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.18-13.52.39:051][  5]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.18-13.52.39:053][  5]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.18-13.52.39:071][  5]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Synaptics HD Audio)
+[2024.01.18-13.52.39:071][  5]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.18-13.52.39:071][  5]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.18-13.52.39:071][  5]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.18-13.52.39:072][  5]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=46
+[2024.01.18-13.52.39:072][  5]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=46
+[2024.01.18-13.52.39:074][  5]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=46
+[2024.01.18-13.52.39:074][  5]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=46
+[2024.01.18-13.52.39:074][  5]LogInit: FAudioDevice initialized with ID 46.
+[2024.01.18-13.52.39:074][  5]LogAudio: Display: Audio Device (ID: 46) registered with world 'Factory'.
+[2024.01.18-13.52.39:074][  5]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 46
+[2024.01.18-13.52.39:077][  5]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.01.18-13.52.39:100][  5]LogWorld: Bringing World /Game/UEDPIE_0_Factory.Factory up for play (max tick rate 0) at 2024.01.18-14.52.39
+[2024.01.18-13.52.39:102][  5]LogWorld: Bringing up level for play took: 0.024149
+[2024.01.18-13.52.39:104][  5]LogOnline: OSS: Created online subsystem instance for: :Context_92
+[2024.01.18-13.52.39:108][  5]PIE: Server logged in
+[2024.01.18-13.52.39:109][  5]PIE: Play in editor total start time 0,11 seconds.
+[2024.01.18-13.52.47:822][857]LogNet: Browse: /Game/MainMenu/MainMenu
+[2024.01.18-13.52.47:822][857]LogLoad: LoadMap: /Game/MainMenu/MainMenu
+[2024.01.18-13.52.47:822][857]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Factory
+[2024.01.18-13.52.47:823][857]LogWorld: UWorld::CleanupWorld for Factory, bSessionEnded=true, bCleanupResources=true
+[2024.01.18-13.52.47:826][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.18-13.52.47:875][857]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.18-13.52.47:884][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.01.18-13.52.47:895][857]LogAudio: Display: Audio Device (ID: 46) registered with world 'MainMenu'.
+[2024.01.18-13.52.47:895][857]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.18-13.52.47:895][857]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.18-13.52.47:895][857]LogAIModule: Creating AISystem for world MainMenu
+[2024.01.18-13.52.47:896][857]LogPlayLevel: PIE: World Init took: (0.000913s)
+[2024.01.18-13.52.47:896][857]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.01.18-13.52.47:896][857]LogWorld: Bringing World /Game/MainMenu/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2024.01.18-14.52.47
+[2024.01.18-13.52.47:897][857]LogWorld: Bringing up level for play took: 0.000515
+[2024.01.18-13.52.47:897][857]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.01.18-13.52.47:901][857]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2024.01.18-13.52.47:901][857]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.01.18-13.52.47:901][857]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.01.18-13.52.47:901][857]LogLoad: Took 0.079031 seconds to LoadMap(/Game/MainMenu/MainMenu)
+[2024.01.18-13.52.48:675][948]Cmd: quit
+[2024.01.18-13.52.48:675][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.18-13.52.48:675][948]LogWorld: BeginTearingDown for /Game/MainMenu/UEDPIE_0_MainMenu
+[2024.01.18-13.52.48:718][948]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.01.18-13.52.48:718][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.18-13.52.48:721][948]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.18-13.52.48:726][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.18-13.52.48:740][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.18-13.52.48:741][948]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 46
+[2024.01.18-13.52.48:741][948]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46
+[2024.01.18-13.52.48:743][948]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46
+[2024.01.18-13.52.48:750][948]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.01.18-13.52.48:844][949]LogPlayLevel: Display: Destroying online subsystem :Context_92
+[2024.01.18-13.53.03:869][610]BlueprintLog: New page: Compile BP_ZombieTank
+[2024.01.18-13.53.03:944][610]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.01.18-13.53.04:340][631]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.18-13.53.04:500][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/Enemy/BP_ZombieTank" FILE="F:/Topdown_Shooter/TopDown_Shooter/Content/TopDown/Blueprints/Enemy/BP_ZombieTank.uasset" SILENT=true
+[2024.01.18-13.53.04:515][631]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Enemy/BP_ZombieTank
+[2024.01.18-13.53.04:515][631]LogSavePackage: Moving 'F:/Topdown_Shooter/TopDown_Shooter/Saved/BP_ZombieTank205B5A1D417D3AD601FC1DA6F30D2B79.tmp' to 'F:/Topdown_Shooter/TopDown_Shooter/Content/TopDown/Blueprints/Enemy/BP_ZombieTank.uasset'
+[2024.01.18-13.53.04:525][631]LogFileHelpers: InternalPromptForCheckoutAndSave took 184 ms (total: 6.28 sec)
+[2024.01.18-13.53.04:527][631]AssetCheck: New page: Asset Save: BP_ZombieTank
+[2024.01.18-13.53.04:527][631]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/Enemy/BP_ZombieTank.BP_ZombieTank
+[2024.01.18-13.53.09:826][ 98]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDown/Blueprints/Enemy/BP_ZombieCAC.BP_ZombieCAC
+[2024.01.18-13.53.09:826][ 98]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.18-13.53.09:826][ 98]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.18-13.53.27:312][903]BlueprintLog: New page: Compile BP_ProjectileBlaster
+[2024.01.18-13.53.27:359][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.01.18-13.53.27:814][929]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.18-13.53.27:941][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_ProjectileBlaster" FILE="F:/Topdown_Shooter/TopDown_Shooter/Content/TopDown/Blueprints/BP_ProjectileBlaster.uasset" SILENT=true
+[2024.01.18-13.53.27:949][929]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_ProjectileBlaster
+[2024.01.18-13.53.27:949][929]LogSavePackage: Moving 'F:/Topdown_Shooter/TopDown_Shooter/Saved/BP_ProjectileBlaster81192BA24507D3B4427A3D88C25E3CF2.tmp' to 'F:/Topdown_Shooter/TopDown_Shooter/Content/TopDown/Blueprints/BP_ProjectileBlaster.uasset'
+[2024.01.18-13.53.27:958][929]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms (total: 6.43 sec)
+[2024.01.18-13.53.27:960][929]AssetCheck: New page: Asset Save: BP_ProjectileBlaster
+[2024.01.18-13.53.27:960][929]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/BP_ProjectileBlaster.BP_ProjectileBlaster
