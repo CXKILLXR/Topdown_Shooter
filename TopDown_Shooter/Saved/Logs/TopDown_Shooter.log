@@ -6219,3 +6219,22 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2024.01.18-13.53.27:958][929]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms (total: 6.43 sec)
 [2024.01.18-13.53.27:960][929]AssetCheck: New page: Asset Save: BP_ProjectileBlaster
 [2024.01.18-13.53.27:960][929]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/BP_ProjectileBlaster.BP_ProjectileBlaster
+[2024.01.18-13.57.45:004][ 23]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 3/4 of stale message segements from Sender=10.123.128.193:57993, Sequence=0
+[2024.01.18-13.57.45:004][ 23]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 3/4 of stale message segements from Sender=10.123.128.193:57993, Sequence=0
+[2024.01.18-14.10.11:250][258]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.123.128.203:55154, Sequence=0
+[2024.01.18-14.10.11:250][258]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.123.128.203:55154, Sequence=0
+[2024.01.18-14.10.11:250][258]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.123.128.203:55154, Sequence=0
+[2024.01.18-14.10.11:250][258]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.123.128.203:55154, Sequence=0
+[2024.01.18-14.11.58:929][741]LogDerivedDataCache: D:/EDUSERVICES/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.046 and deleted 404 files with total size 970 MiB and 0 empty folders. Scanned 30152 files in 26163 folders with total size 8555 MiB.
+[2024.01.18-14.13.06:416][935]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 2/4 of stale message segements from Sender=10.123.128.202:56840, Sequence=0
+[2024.01.18-14.13.06:416][935]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/4 of stale message segements from Sender=10.123.129.6:61451, Sequence=0
+[2024.01.18-14.14.06:458][285]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 3/4 of stale message segements from Sender=10.123.129.6:61451, Sequence=0
+[2024.01.18-14.14.06:458][285]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 3/4 of stale message segements from Sender=10.123.129.6:61451, Sequence=0
+[2024.01.18-14.14.06:458][285]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 3/4 of stale message segements from Sender=10.123.129.6:61451, Sequence=0
+[2024.01.18-14.14.06:458][285]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 3/4 of stale message segements from Sender=10.123.129.6:61451, Sequence=0
+[2024.01.18-14.14.06:458][285]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 3/4 of stale message segements from Sender=10.123.129.6:61451, Sequence=0
+[2024.01.18-14.14.06:458][285]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 3/4 of stale message segements from Sender=10.123.129.6:61451, Sequence=0
+[2024.01.18-14.14.06:458][285]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 3/4 of stale message segements from Sender=10.123.129.6:61451, Sequence=0
+[2024.01.18-14.14.06:458][285]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 3/4 of stale message segements from Sender=10.123.129.6:61451, Sequence=0
+[2024.01.18-14.28.02:603][749]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 3/4 of stale message segements from Sender=10.123.128.202:56840, Sequence=0
+[2024.01.18-14.28.58:939][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
